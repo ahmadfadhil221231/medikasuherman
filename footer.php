@@ -1,5 +1,4 @@
 <?php
-
 /**
  * The template for displaying the footer
  *
@@ -7,58 +6,67 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package Instant News
+ * @package Updated News
  */
 
 ?>
+
+</div>
+
 <?php if ( ! is_front_page() || is_home() ) { ?>
 </div>
-</div>
 </div><!-- #content -->
-<?php } ?>
 
-</div><!-- #page -->
+<?php
+}
+
+if ( is_front_page() ) {
+
+	require get_template_directory() . '/inc/frontpage-sections/above-footer-widgets-area.php';
+
+}
+
+?>
 
 <footer id="colophon" class="site-footer">
-	<?php if ( is_active_sidebar( 'footer-widget' ) || is_active_sidebar( 'footer-widget-2' ) || is_active_sidebar( 'footer-widget-3' ) ) : ?>
-		<div class="site-footer-top">
-			<div class="ascendoor-wrapper">
-				<div class="footer-widgets-wrapper">
-					<?php for ( $i = 1; $i <= 3; $i++ ) { ?>
-						<div class="footer-widget-single">
-							<?php dynamic_sidebar( 'footer-widget-' . $i ); ?>
-						</div>
-					<?php } ?>
-				</div>
-			</div>
-		</div><!-- .footer-top -->
-	<?php endif; ?>
-	<div class="site-footer-bottom">
-		<div class="ascendoor-wrapper">
-			<div class="site-footer-bottom-wrapper">
-				<div class="site-info">
-					<?php
-						/**
-						 * Hook: instant_news_footer_copyright.
-						 *
-						 * @hooked - instant_news_output_footer_copyright_content - 10
-						 */
-						do_action( 'instant_news_footer_copyright' );
-					?>
-				</div><!-- .site-info -->
+	<?php if ( is_active_sidebar( 'footer-1' ) || is_active_sidebar( 'footer-2' ) || is_active_sidebar( 'footer-3' ) || is_active_sidebar( 'footer-4' ) ) : ?>
+	<div class="top-footer">
+		<div class="theme-wrapper">
+			<div class="top-footer-widgets">
+
+				<?php for ( $i = 1; $i <= 4; $i++ ) { ?>
+					<div class="footer-widget">
+						<?php dynamic_sidebar( 'footer-' . $i ); ?>
+					</div>
+				<?php } ?>
+
 			</div>
 		</div>
 	</div>
-</footer><!-- #colophon -->
-
-<a href="#" id="scroll-to-top" class="magazine-scroll-to-top">
-	<i class="fas fa-chevron-up"></i>
-	<div class="progress-wrap">
-		<svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-			<rect class="square" x="0" y="0" width="100" height="100" />
-		</svg>
+	<?php
+endif;
+$updated_news_search = array( '[the-year]', '[site-link]' );
+$replace             = array( date( 'Y' ), '<a href="' . esc_url( home_url( '/' ) ) . '">' . esc_attr( get_bloginfo( 'name', 'display' ) ) . '</a>' );
+$copyright_default   = sprintf( esc_html_x( 'Copyright &copy; %1$s %2$s', '1: Year, 2: Site Title with home URL', 'updated-news' ), '[the-year]', '[site-link]' );
+$copyright_text      = get_theme_mod( 'updated_news_copyright_txt', $copyright_default );
+$copyright_text      = str_replace( $updated_news_search, $replace, $copyright_text );
+?>
+<div class="bottom-footer">
+	<div class="theme-wrapper">
+		<div class="bottom-footer-info">
+			<div class="site-info">
+				<span>
+					<?php echo wp_kses_post( $copyright_text ); ?>
+					<?php echo sprintf( esc_html__( 'Theme: %1$s By %2$s.', 'updated-news' ), wp_get_theme()->get( 'Name' ), '<a href="' . wp_get_theme()->get( 'AuthorURI' ) . '">' . wp_get_theme()->get( 'Author' ) . '</a>' ); ?>
+				</span>	
+			</div><!-- .site-info -->
+		</div>
 	</div>
-</a>
+</div>
+
+</footer><!-- #colophon -->
+<a href="#" id="scroll-to-top" class="updated-news-scroll-to-top"><i class="fas fa-chevron-up"></i></a>
+</div><!-- #page -->
 
 <?php wp_footer(); ?>
 </body>
