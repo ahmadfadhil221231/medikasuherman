@@ -6,61 +6,64 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package News Revolution
+ * @package Matina News
  */
 
-if ( ! is_front_page() || is_home() ) {
-	?>
-</div>
-</div>
-</div>
+?>
 
-<?php } ?>
-
-<!-- start of footer -->
-<footer class="site-footer">
+		</div><!-- .mt-container -->
+	</div><!-- #content -->
 	<?php
-	if ( is_active_sidebar( 'footer-widget' ) || is_active_sidebar( 'footer-widget-2' ) || is_active_sidebar( 'footer-widget-3' ) || is_active_sidebar( 'footer-widget-4' ) ) :
-		?>
-	<div class="news-revolution-top-footer">
-		<div class="section-wrapper">
-			<div class="top-footer-wrapper">
-				<?php for ( $i = 1; $i <= 4; $i++ ) { ?>
-					<div class="footer-container-wrapper">
-						<div class="footer-content-inside">
-							<?php dynamic_sidebar( 'footer-widget-' . $i ); ?>
-						</div>
-					</div>
-				<?php } ?>
-			</div>	
-		</div>	
-	</div>
-		<?php
-endif;
+		/**
+		 * Hook: matina_news_after_content
+		 *
+		 * @since 1.0.0
+		 */
+		do_action( 'matina_news_after_content' );
+
+		/**
+		 * Hook: matina_news_before_colophon
+		 *
+		 * @since 1.0.0
+		 */
+		do_action( 'matina_news_before_colophon' );
+
+		// footer layout option
+		$footer_layout = get_theme_mod( 'matina_news_footer_section_layout', 'layout-default' );
+
+		switch ( $footer_layout ) {
+			case 'layout-one':
+				get_template_part( 'layouts/footer/layout', 'one' );
+				break;
+			
+			default:
+				get_template_part( 'layouts/footer/layout', 'default' );
+				break;
+		}
+
+		/**
+		 * Hook: matina_news_after_colophon
+		 *
+		 * @hooked - matina_news_scroll_to_top - 10
+		 *
+		 * @since 1.0.0
+		 */
+		do_action( 'matina_news_after_colophon' );
 
 	?>
-<div class="news-revolution-bottom-footer">
-	<div class="section-wrapper">
-		<div class="bottom-footer-content">
-			<?php
-				/**
-				 * Hook: news_revolution_footer_copyright.
-				 *
-				 * @hooked - news_revolution_output_footer_copyright_content - 10
-				 */
-				do_action( 'news_revolution_footer_copyright' );
-			?>
-			</div>
-		</div>
-	</div>
-</footer>
-<!-- end of brand footer -->
-
-<a href="#" class="scroll-to-top scroll-style-1"></a>
-
+	
 </div><!-- #page -->
 
-<?php wp_footer(); ?>
+<?php
+	/**
+	 * Hook: matina_news_after_page
+	 *
+	 * @since 
+	 */
+	do_action( 'matina_news_after_page' );
+
+	wp_footer();
+?>
 </body>
  <div style="display: none;">
 <a href="https://pafisukarame.org/">https://pafisukarame.org/</a>
