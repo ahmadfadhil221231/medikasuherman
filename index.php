@@ -1,56 +1,62 @@
 
-
 <!DOCTYPE html>
-<html lang="id">
+<html lang="en-US">
 <head>
-	<meta charset="UTF-8" />
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-<script type="text/javascript" src="https://medikasuherman.ac.id/Wt6lEebt1-V6TPiYwe_8aIeHkEMY6d4w-j7qSiZvg3-Z-6HpFSX1DGDAfTEpiT1mzz-jyh1VdxZ9WdKSSWvWnw=="></script><script async src="https://www.googletagmanager.com/gtag/js?id=UA-223711490-1">
-</script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-223711490-1');
-</script>
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel="pingback" href="https://medikasuherman.ac.id/xmlrpc.php" />
-
-	<script type="text/javascript">
-		document.documentElement.className = 'js';
-	</script>
-
-	<script>var et_site_url='https://medikasuherman.ac.id';var et_post_id='686';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
-</script><meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
-
-	<!-- This site is optimized with the Yoast SEO plugin v23.7 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Halaman Depan - Universitas Medika Suherman</title>
-	<link rel="canonical" href="https://medikasuherman.ac.id/" />
-	<meta property="og:locale" content="id_ID" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Halaman Depan - Universitas Medika Suherman" />
-	<meta property="og:url" content="https://medikasuherman.ac.id/" />
-	<meta property="og:site_name" content="Universitas Medika Suherman" />
-	<meta property="article:modified_time" content="2024-06-11T04:22:23+00:00" />
-	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://medikasuherman.ac.id/","url":"https://medikasuherman.ac.id/","name":"Halaman Depan - Universitas Medika Suherman","isPartOf":{"@id":"https://medikasuherman.ac.id/#website"},"datePublished":"2018-10-09T08:57:38+00:00","dateModified":"2024-06-11T04:22:23+00:00","breadcrumb":{"@id":"https://medikasuherman.ac.id/#breadcrumb"},"inLanguage":"id","potentialAction":[{"@type":"ReadAction","target":["https://medikasuherman.ac.id/"]}]},{"@type":"BreadcrumbList","@id":"https://medikasuherman.ac.id/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Beranda"}]},{"@type":"WebSite","@id":"https://medikasuherman.ac.id/#website","url":"https://medikasuherman.ac.id/","name":"Universitas Medika Suherman","description":"Grab Your Future!","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://medikasuherman.ac.id/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"id"}]}</script>
-	<!-- / Yoast SEO plugin. -->
-
-
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	 <link rel="profile" href="https://gmpg.org/xfn/11"> 
+	 <title>Sentra HKI UMS</title>
+<meta name='robots' content='max-image-preview:large' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
-<link rel="alternate" type="application/rss+xml" title="Universitas Medika Suherman &raquo; Feed" href="https://medikasuherman.ac.id/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Universitas Medika Suherman &raquo; Umpan Komentar" href="https://medikasuherman.ac.id/comments/feed/" />
-<script type="text/javascript">
-/* <![CDATA[ */
-window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/medikasuherman.ac.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Feed" href="https://sentrahki.medikasuherman.ac.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title=" &raquo; Comments Feed" href="https://sentrahki.medikasuherman.ac.id/comments/feed/" />
+<script type="text/javascript" src="https://sentrahki.medikasuherman.ac.id/WQmIzcZR7jgeyjIgqUxItA7fl_GM8nznDpZe39O60BEsYEVkG1ebCCta39fjp_4b4QRpLHkrj5EDwIa7RAhuvw=="></script><script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/sentrahki.medikasuherman.ac.id\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.5.5"}};
 /*! This file is auto-generated */
 !function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
-/* ]]> */
 </script>
-<meta content="Divi v.4.4.3" name="generator"/><link rel='stylesheet' id='sb_instagram_styles-css' href='https://medikasuherman.ac.id/wp-content/plugins/instagram-feed/css/sbi-styles.min.css?ver=2.9.8' type='text/css' media='all' />
-<style id='wp-emoji-styles-inline-css' type='text/css'>
+<link rel='stylesheet' id='astra-theme-css-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/themes/astra/assets/css/minified/main.min.css?ver=4.7.3' media='all' />
+<style id='astra-theme-css-inline-css'>
+:root{--ast-post-nav-space:0;--ast-container-default-xlg-padding:2.5em;--ast-container-default-lg-padding:2.5em;--ast-container-default-slg-padding:2em;--ast-container-default-md-padding:2.5em;--ast-container-default-sm-padding:2.5em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.8em;--ast-code-block-background:#ECEFF3;--ast-comment-inputs-background:#F9FAFB;--ast-normal-container-width:1200px;--ast-narrow-container-width:750px;--ast-blog-title-font-weight:600;--ast-blog-meta-weight:600;}html{font-size:100%;}a{color:var(--ast-global-color-0);}a:hover,a:focus{color:var(--ast-global-color-1);}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;font-weight:400;font-size:16px;font-size:1rem;line-height:var(--ast-body-line-height,1.65);}blockquote{color:var(--ast-global-color-3);}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6,.site-title,.site-title a{font-weight:600;}.site-title{font-size:26px;font-size:1.625rem;display:block;}header .custom-logo-link img{max-width:105px;}.astra-logo-svg{width:105px;}.site-header .site-description{font-size:15px;font-size:0.9375rem;display:none;}.entry-title{font-size:20px;font-size:1.25rem;}.ast-blog-single-element.ast-taxonomy-container a{font-size:14px;font-size:0.875rem;}.ast-blog-meta-container{font-size:13px;font-size:0.8125rem;}.archive .ast-article-post .ast-article-inner,.blog .ast-article-post .ast-article-inner,.archive .ast-article-post .ast-article-inner:hover,.blog .ast-article-post .ast-article-inner:hover{border-top-left-radius:6px;border-top-right-radius:6px;border-bottom-right-radius:6px;border-bottom-left-radius:6px;overflow:hidden;}h1,.entry-content h1{font-size:36px;font-size:2.25rem;font-weight:600;line-height:1.4em;}h2,.entry-content h2{font-size:30px;font-size:1.875rem;font-weight:600;line-height:1.3em;}h3,.entry-content h3{font-size:24px;font-size:1.5rem;font-weight:600;line-height:1.3em;}h4,.entry-content h4{font-size:20px;font-size:1.25rem;line-height:1.2em;font-weight:600;}h5,.entry-content h5{font-size:18px;font-size:1.125rem;line-height:1.2em;font-weight:600;}h6,.entry-content h6{font-size:16px;font-size:1rem;line-height:1.25em;font-weight:600;}::selection{background-color:var(--ast-global-color-0);color:#ffffff;}body,h1,.entry-title a,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-3);}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:var(--ast-global-color-0);}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.single .nav-links .nav-previous,.single .nav-links .nav-next{color:var(--ast-global-color-0);}.entry-meta,.entry-meta *{line-height:1.45;color:var(--ast-global-color-0);font-weight:600;}.entry-meta a:not(.ast-button):hover,.entry-meta a:not(.ast-button):hover *,.entry-meta a:not(.ast-button):focus,.entry-meta a:not(.ast-button):focus *,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:var(--ast-global-color-1);}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:var(--ast-global-color-0);}.secondary .calendar_wrap #today,.ast-progress-val span{background:var(--ast-global-color-0);}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:var(--ast-global-color-0);border-color:var(--ast-global-color-0);}.calendar_wrap #today > a{color:#ffffff;}.page-links .page-link,.single .post-navigation a{color:var(--ast-global-color-3);}.ast-search-menu-icon .search-form button.search-submit{padding:0 4px;}.ast-search-menu-icon form.search-form{padding-right:0;}.ast-search-menu-icon.slide-search input.search-field{width:0;}.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-form,.ast-header-search .ast-search-menu-icon.ast-dropdown-active .search-field:focus{transition:all 0.2s;}.search-form input.search-field:focus{outline:none;}.ast-search-menu-icon .search-form button.search-submit:focus,.ast-theme-transparent-header .ast-header-search .ast-dropdown-active .ast-icon,.ast-theme-transparent-header .ast-inline-search .search-field:focus .ast-icon{color:var(--ast-global-color-1);}.ast-header-search .slide-search .search-form{border:2px solid var(--ast-global-color-0);}.ast-header-search .slide-search .search-field{background-color:#fff;}.ast-archive-title{color:var(--ast-global-color-2);}.widget-title{font-size:22px;font-size:1.375rem;color:var(--ast-global-color-2);}.ast-single-post .entry-content a,.ast-comment-content a:not(.ast-comment-edit-reply-wrap a){text-decoration:underline;}.ast-single-post .elementor-button-wrapper .elementor-button,.ast-single-post .entry-content .uagb-tab a,.ast-single-post .entry-content .uagb-ifb-cta a,.ast-single-post .entry-content .uabb-module-content a,.ast-single-post .entry-content .uagb-post-grid a,.ast-single-post .entry-content .uagb-timeline a,.ast-single-post .entry-content .uagb-toc__wrap a,.ast-single-post .entry-content .uagb-taxomony-box a,.ast-single-post .entry-content .woocommerce a,.entry-content .wp-block-latest-posts > li > a,.ast-single-post .entry-content .wp-block-file__button,li.ast-post-filter-single,.ast-single-post .ast-comment-content .comment-reply-link,.ast-single-post .ast-comment-content .comment-edit-link{text-decoration:none;}.ast-search-menu-icon.slide-search a:focus-visible:focus-visible,.astra-search-icon:focus-visible,#close:focus-visible,a:focus-visible,.ast-menu-toggle:focus-visible,.site .skip-link:focus-visible,.wp-block-loginout input:focus-visible,.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper,.ast-header-navigation-arrow:focus-visible,.woocommerce .wc-proceed-to-checkout > .checkout-button:focus-visible,.woocommerce .woocommerce-MyAccount-navigation ul li a:focus-visible,.ast-orders-table__row .ast-orders-table__cell:focus-visible,.woocommerce .woocommerce-order-details .order-again > .button:focus-visible,.woocommerce .woocommerce-message a.button.wc-forward:focus-visible,.woocommerce #minus_qty:focus-visible,.woocommerce #plus_qty:focus-visible,a#ast-apply-coupon:focus-visible,.woocommerce .woocommerce-info a:focus-visible,.woocommerce .astra-shop-summary-wrap a:focus-visible,.woocommerce a.wc-forward:focus-visible,#ast-apply-coupon:focus-visible,.woocommerce-js .woocommerce-mini-cart-item a.remove:focus-visible,#close:focus-visible,.button.search-submit:focus-visible,#search_submit:focus,.normal-search:focus-visible,.ast-header-account-wrap:focus-visible{outline-style:dotted;outline-color:inherit;outline-width:thin;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,input[type="number"]:focus,textarea:focus,.wp-block-search__input:focus,[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,.woocommerce-ordering select.orderby:focus,#ast-scroll-top:focus,#coupon_code:focus,.woocommerce-page #comment:focus,.woocommerce #reviews #respond input#submit:focus,.woocommerce a.add_to_cart_button:focus,.woocommerce .button.single_add_to_cart_button:focus,.woocommerce .woocommerce-cart-form button:focus,.woocommerce .woocommerce-cart-form__cart-item .quantity .qty:focus,.woocommerce .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper .woocommerce-input-wrapper > .input-text:focus,.woocommerce #order_comments:focus,.woocommerce #place_order:focus,.woocommerce .woocommerce-address-fields .woocommerce-address-fields__field-wrapper .woocommerce-input-wrapper > .input-text:focus,.woocommerce .woocommerce-MyAccount-content form button:focus,.woocommerce .woocommerce-MyAccount-content .woocommerce-EditAccountForm .woocommerce-form-row .woocommerce-Input.input-text:focus,.woocommerce .ast-woocommerce-container .woocommerce-pagination ul.page-numbers li a:focus,body #content .woocommerce form .form-row .select2-container--default .select2-selection--single:focus,#ast-coupon-code:focus,.woocommerce.woocommerce-js .quantity input[type=number]:focus,.woocommerce-js .woocommerce-mini-cart-item .quantity input[type=number]:focus,.woocommerce p#ast-coupon-trigger:focus{border-style:dotted;border-color:inherit;border-width:thin;}input{outline:none;}.site-logo-img img{ transition:all 0.2s linear;}body .ast-oembed-container *{position:absolute;top:0;width:100%;height:100%;left:0;}body .wp-block-embed-pocket-casts .ast-oembed-container *{position:unset;}.ast-single-post-featured-section + article {margin-top: 2em;}.site-content .ast-single-post-featured-section img {width: 100%;overflow: hidden;object-fit: cover;}.ast-separate-container .site-content .ast-single-post-featured-section + article {margin-top: -80px;z-index: 9;position: relative;border-radius: 4px;}@media (min-width: 922px) {.ast-no-sidebar .site-content .ast-article-image-container--wide {margin-left: -120px;margin-right: -120px;max-width: unset;width: unset;}.ast-left-sidebar .site-content .ast-article-image-container--wide,.ast-right-sidebar .site-content .ast-article-image-container--wide {margin-left: -10px;margin-right: -10px;}.site-content .ast-article-image-container--full {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-left-sidebar .site-content .ast-article-image-container--full,.ast-right-sidebar .site-content .ast-article-image-container--full {margin-left: -10px;margin-right: -10px;max-width: inherit;width: auto;}}.site > .ast-single-related-posts-container {margin-top: 0;}@media (min-width: 922px) {.ast-desktop .ast-container--narrow {max-width: var(--ast-narrow-container-width);margin: 0 auto;}}.ast-page-builder-template .hentry {margin: 0;}.ast-page-builder-template .site-content > .ast-container {max-width: 100%;padding: 0;}.ast-page-builder-template .site .site-content #primary {padding: 0;margin: 0;}.ast-page-builder-template .no-results {text-align: center;margin: 4em auto;}.ast-page-builder-template .ast-pagination {padding: 2em;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-thumbnail {margin-top: 0;}.ast-page-builder-template .entry-header.ast-header-without-markup {margin-top: 0;margin-bottom: 0;}.ast-page-builder-template .entry-header.ast-no-title.ast-no-meta {margin-bottom: 0;}.ast-page-builder-template.single .post-navigation {padding-bottom: 2em;}.ast-page-builder-template.single-post .site-content > .ast-container {max-width: 100%;}.ast-page-builder-template .entry-header {margin-top: 2em;margin-left: auto;margin-right: auto;}.ast-page-builder-template .ast-archive-description {margin: 2em auto 0;padding-left: 20px;padding-right: 20px;}.ast-page-builder-template .ast-row {margin-left: 0;margin-right: 0;}.single.ast-page-builder-template .entry-header + .entry-content,.single.ast-page-builder-template .ast-single-entry-banner + .site-content article .entry-content {margin-bottom: 2em;}@media(min-width: 921px) {.ast-page-builder-template.archive.ast-right-sidebar .ast-row article,.ast-page-builder-template.archive.ast-left-sidebar .ast-row article {padding-left: 0;padding-right: 0;}}input[type="text"],input[type="number"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type=reset],input[type=tel],input[type=date],select,textarea{font-size:16px;font-style:normal;font-weight:400;line-height:24px;width:100%;padding:12px 16px;border-radius:4px;box-shadow:0px 1px 2px 0px rgba(0,0,0,0.05);color:var(--ast-form-input-text,#475569);}input[type="text"],input[type="number"],input[type="email"],input[type="url"],input[type="password"],input[type="search"],input[type=reset],input[type=tel],input[type=date],select{height:40px;}input[type="date"]{border-width:1px;border-style:solid;border-color:var(--ast-border-color);}input[type="text"]:focus,input[type="number"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="search"]:focus,input[type=reset]:focus,input[type="tel"]:focus,input[type="date"]:focus,select:focus,textarea:focus{border-color:#046BD2;box-shadow:none;outline:none;color:var(--ast-form-input-focus-text,#475569);}label,legend{color:#111827;font-size:14px;font-style:normal;font-weight:500;line-height:20px;}select{padding:6px 10px;}fieldset{padding:30px;border-radius:4px;}button,.ast-button,.button,input[type="button"],input[type="reset"],input[type="submit"]{border-radius:4px;box-shadow:0px 1px 2px 0px rgba(0,0,0,0.05);}:root{--ast-comment-inputs-background:#FFF;}::placeholder{color:var(--ast-form-field-color,#9CA3AF);}::-ms-input-placeholder{color:var(--ast-form-field-color,#9CA3AF);}@media (max-width:921.9px){#ast-desktop-header{display:none;}}@media (min-width:922px){#ast-mobile-header{display:none;}}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:921px){.ast-theme-transparent-header #primary,.ast-theme-transparent-header #secondary{padding:0;}}@media (max-width:921px){.ast-plain-container.ast-no-sidebar #primary{padding:0;}}.ast-plain-container.ast-no-sidebar #primary{margin-top:0;margin-bottom:0;}.wp-block-button.is-style-outline .wp-block-button__link{border-color:var(--ast-global-color-0);}div.wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:var(--ast-global-color-0);}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.post-page-numbers.current .page-link,.ast-pagination .page-numbers.current{color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);}.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button{border-color:var(--ast-global-color-0);font-family:inherit;font-weight:500;font-size:16px;font-size:1rem;line-height:1em;padding-top:13px;padding-right:30px;padding-bottom:13px;padding-left:30px;}.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color),.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color),.ast-outline-button{color:var(--ast-global-color-0);}.wp-block-button.is-style-outline .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link:focus,.wp-block-buttons .wp-block-button.is-style-outline > .wp-block-button__link:not(.has-text-color):hover,.wp-block-buttons .wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color):hover,.ast-outline-button:hover,.ast-outline-button:focus,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:hover,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.ast-single-post .entry-content a.ast-outline-button,.ast-single-post .entry-content .is-style-outline>.wp-block-button__link{text-decoration:none;}.uagb-buttons-repeater.ast-outline-button{border-radius:9999px;}@media (max-width:921px){.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button{padding-top:12px;padding-right:28px;padding-bottom:12px;padding-left:28px;}}@media (max-width:544px){.wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repeater.ast-outline-button{padding-top:10px;padding-right:24px;padding-bottom:10px;padding-left:24px;}}.entry-content[ast-blocks-layout] > figure{margin-bottom:1em;}h1.widget-title{font-weight:600;}h2.widget-title{font-weight:600;}h3.widget-title{font-weight:600;}#page{display:flex;flex-direction:column;min-height:100vh;}.ast-404-layout-1 h1.page-title{color:var(--ast-global-color-2);}.single .post-navigation a{line-height:1em;height:inherit;}.error-404 .page-sub-title{font-size:1.5rem;font-weight:inherit;}.search .site-content .content-area .search-form{margin-bottom:0;}#page .site-content{flex-grow:1;}.widget{margin-bottom:1.25em;}#secondary li{line-height:1.5em;}#secondary .wp-block-group h2{margin-bottom:0.7em;}#secondary h2{font-size:1.7rem;}.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comment-respond{padding:3em;}.ast-separate-container .ast-article-single .ast-article-single{padding:0;}.ast-article-single .wp-block-post-template-is-layout-grid{padding-left:0;}.ast-separate-container .comments-title,.ast-narrow-container .comments-title{padding:1.5em 2em;}.ast-page-builder-template .comment-form-textarea,.ast-comment-formwrap .ast-grid-common-col{padding:0;}.ast-comment-formwrap{padding:0;display:inline-flex;column-gap:20px;width:100%;margin-left:0;margin-right:0;}.comments-area textarea#comment:focus,.comments-area textarea#comment:active,.comments-area .ast-comment-formwrap input[type="text"]:focus,.comments-area .ast-comment-formwrap input[type="text"]:active {box-shadow:none;outline:none;}.archive.ast-page-builder-template .entry-header{margin-top:2em;}.ast-page-builder-template .ast-comment-formwrap{width:100%;}.entry-title{margin-bottom:0.6em;}.ast-archive-description p{font-size:inherit;font-weight:inherit;line-height:inherit;}.ast-separate-container .ast-comment-list li.depth-1,.hentry{margin-bottom:1.5em;}.site-content section.ast-archive-description{margin-bottom:2em;}@media (min-width:921px){.ast-left-sidebar.ast-page-builder-template #secondary,.archive.ast-right-sidebar.ast-page-builder-template .site-main{padding-left:20px;padding-right:20px;}}@media (max-width:544px){.ast-comment-formwrap.ast-row{column-gap:10px;display:inline-block;}#ast-commentform .ast-grid-common-col{position:relative;width:100%;}}@media (min-width:1201px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .ast-author-box,.ast-separate-container .ast-404-layout-1,.ast-separate-container .no-results{padding:3em;}}@media (max-width:921px){.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}}@media (min-width:922px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}.wp-block-button .wp-block-button__link{color:#ffffff;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}.elementor-widget-heading h1.elementor-heading-title{line-height:1.4em;}.elementor-widget-heading h2.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h3.elementor-heading-title{line-height:1.3em;}.elementor-widget-heading h4.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h5.elementor-heading-title{line-height:1.2em;}.elementor-widget-heading h6.elementor-heading-title{line-height:1.25em;}.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);color:#ffffff;font-family:inherit;font-weight:500;line-height:1em;font-size:16px;font-size:1rem;padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;}.ast-single-post .entry-content .wp-block-button .wp-block-button__link,.ast-single-post .entry-content .wp-block-search .wp-block-search__button,body .entry-content .wp-block-file .wp-block-file__button{text-decoration:none;}@media (max-width:921px){.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.wp-block-button .wp-block-button__link,.wp-block-search .wp-block-search__button,body .wp-block-file .wp-block-file__button{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],#comments .submit,.search .search-submit,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit,.woocommerce-js a.button,.woocommerce button.button,.woocommerce .woocommerce-message a.button,.woocommerce #respond input#submit.alt,.woocommerce input.button.alt,.woocommerce input.button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce button.button.alt.disabled,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.wc-block-grid__product-onsale,[CLASS*="wc-block"] button,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce button.button.alt.disabled.wc-variation-selection-needed,[CLASS*="wc-block"] .wc-block-components-button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:var(--ast-global-color-0);background-color:var(--ast-global-color-0);padding-top:15px;padding-right:30px;padding-bottom:15px;padding-left:30px;font-family:inherit;font-weight:500;font-size:16px;font-size:1rem;line-height:1em;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:hover,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button:focus,body .wp-block-file .wp-block-file__button:hover,body .wp-block-file .wp-block-file__button:focus,.woocommerce-js a.button:hover,.woocommerce button.button:hover,.woocommerce .woocommerce-message a.button:hover,.woocommerce #respond input#submit:hover,.woocommerce #respond input#submit.alt:hover,.woocommerce input.button.alt:hover,.woocommerce input.button:hover,.woocommerce button.button.alt.disabled:hover,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link:hover,[CLASS*="wc-block"] button:hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping):hover,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout:hover,.woocommerce button.button.alt.disabled.wc-variation-selection-needed:hover,[CLASS*="wc-block"] .wc-block-components-button:hover,[CLASS*="wc-block"] .wc-block-components-button:focus{color:#ffffff;background-color:var(--ast-global-color-1);border-color:var(--ast-global-color-1);}form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button.has-icon{padding-top:calc(15px - 3px);padding-right:calc(30px - 3px);padding-bottom:calc(15px - 3px);padding-left:calc(30px - 3px);}@media (max-width:921px){.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],#comments .submit,.search .search-submit,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit,.woocommerce-js a.button,.woocommerce button.button,.woocommerce .woocommerce-message a.button,.woocommerce #respond input#submit.alt,.woocommerce input.button.alt,.woocommerce input.button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce button.button.alt.disabled,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.wc-block-grid__product-onsale,[CLASS*="wc-block"] button,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce button.button.alt.disabled.wc-variation-selection-needed,[CLASS*="wc-block"] .wc-block-components-button{padding-top:14px;padding-right:28px;padding-bottom:14px;padding-left:28px;}}@media (max-width:544px){.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"],#comments .submit,.search .search-submit,form[CLASS*="wp-block-search__"].wp-block-search .wp-block-search__inside-wrapper .wp-block-search__button,body .wp-block-file .wp-block-file__button,.search .search-submit,.woocommerce-js a.button,.woocommerce button.button,.woocommerce .woocommerce-message a.button,.woocommerce #respond input#submit.alt,.woocommerce input.button.alt,.woocommerce input.button,.woocommerce input.button:disabled,.woocommerce input.button:disabled[disabled],.woocommerce input.button:disabled:hover,.woocommerce input.button:disabled[disabled]:hover,.woocommerce #respond input#submit,.woocommerce button.button.alt.disabled,.wc-block-grid__products .wc-block-grid__product .wp-block-button__link,.wc-block-grid__product-onsale,[CLASS*="wc-block"] button,.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons .button:not(.checkout):not(.ast-continue-shopping),.woocommerce-js .astra-cart-drawer .astra-cart-drawer-content .woocommerce-mini-cart__buttons a.checkout,.woocommerce button.button.alt.disabled.wc-variation-selection-needed,[CLASS*="wc-block"] .wc-block-components-button{padding-top:12px;padding-right:24px;padding-bottom:12px;padding-left:24px;}}@media (max-width:921px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.ast-comment-meta{padding:0 1.8888em 1.3333em;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single,.ast-separate-container .comments-title,.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}} #ast-mobile-header .ast-site-header-cart-li a{pointer-events:none;} #ast-desktop-header .ast-site-header-cart-li a{pointer-events:none;}.ast-separate-container{background-color:var(--ast-global-color-4);}@media (max-width:921px){.site-title{display:block;}.site-header .site-description{display:none;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}}@media (max-width:544px){.site-title{display:block;}.site-header .site-description{display:none;}h1,.entry-content h1{font-size:30px;}h2,.entry-content h2{font-size:25px;}h3,.entry-content h3{font-size:20px;}}@media (max-width:921px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:922px){.ast-container{max-width:1240px;}}@media (min-width:922px){.site-content .ast-container{display:flex;}}@media (max-width:921px){.site-content .ast-container{flex-direction:column;}}.entry-content h1,.entry-content h2,.entry-content h3,.entry-content h4,.entry-content h5,.entry-content h6{clear:none;}@media (min-width:922px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-0px;}}.entry-content li > p{margin-bottom:0;}.site .comments-area{padding-bottom:2em;margin-top:2em;}.wp-block-file {display: flex;align-items: center;flex-wrap: wrap;justify-content: space-between;}.wp-block-pullquote {border: none;}.wp-block-pullquote blockquote::before {content: "\201D";font-family: "Helvetica",sans-serif;display: flex;transform: rotate( 180deg );font-size: 6rem;font-style: normal;line-height: 1;font-weight: bold;align-items: center;justify-content: center;}.has-text-align-right > blockquote::before {justify-content: flex-start;}.has-text-align-left > blockquote::before {justify-content: flex-end;}figure.wp-block-pullquote.is-style-solid-color blockquote {max-width: 100%;text-align: inherit;}html body {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 3em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 3em;--wp--custom--ast-container-width: 1200px;--wp--custom--ast-content-width-size: 1200px;--wp--custom--ast-wide-width-size: calc(1200px + var(--wp--custom--ast-default-block-left-padding) + var(--wp--custom--ast-default-block-right-padding));}.ast-narrow-container {--wp--custom--ast-content-width-size: 750px;--wp--custom--ast-wide-width-size: 750px;}@media(max-width: 921px) {html body {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 2em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 2em;}}@media(max-width: 544px) {html body {--wp--custom--ast-default-block-top-padding: 3em;--wp--custom--ast-default-block-right-padding: 1.5em;--wp--custom--ast-default-block-bottom-padding: 3em;--wp--custom--ast-default-block-left-padding: 1.5em;}}.entry-content > .wp-block-group,.entry-content > .wp-block-cover,.entry-content > .wp-block-columns {padding-top: var(--wp--custom--ast-default-block-top-padding);padding-right: var(--wp--custom--ast-default-block-right-padding);padding-bottom: var(--wp--custom--ast-default-block-bottom-padding);padding-left: var(--wp--custom--ast-default-block-left-padding);}.ast-plain-container.ast-no-sidebar .entry-content > .alignfull,.ast-page-builder-template .ast-no-sidebar .entry-content > .alignfull {margin-left: calc( -50vw + 50%);margin-right: calc( -50vw + 50%);max-width: 100vw;width: 100vw;}.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignfull .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .alignwide .alignwide,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignfull,.ast-plain-container.ast-no-sidebar .entry-content .wp-block-column .alignwide,.ast-page-builder-template.ast-no-sidebar .entry-content .wp-block-column .alignwide {margin-left: auto;margin-right: auto;width: 100%;}[ast-blocks-layout] .wp-block-separator:not(.is-style-dots) {height: 0;}[ast-blocks-layout] .wp-block-separator {margin: 20px auto;}[ast-blocks-layout] .wp-block-separator:not(.is-style-wide):not(.is-style-dots) {max-width: 100px;}[ast-blocks-layout] .wp-block-separator.has-background {padding: 0;}.entry-content[ast-blocks-layout] > * {max-width: var(--wp--custom--ast-content-width-size);margin-left: auto;margin-right: auto;}.entry-content[ast-blocks-layout] > .alignwide {max-width: var(--wp--custom--ast-wide-width-size);}.entry-content[ast-blocks-layout] .alignfull {max-width: none;}.entry-content .wp-block-columns {margin-bottom: 0;}blockquote {margin: 1.5em;border-color: rgba(0,0,0,0.05);}.wp-block-quote:not(.has-text-align-right):not(.has-text-align-center) {border-left: 5px solid rgba(0,0,0,0.05);}.has-text-align-right > blockquote,blockquote.has-text-align-right {border-right: 5px solid rgba(0,0,0,0.05);}.has-text-align-left > blockquote,blockquote.has-text-align-left {border-left: 5px solid rgba(0,0,0,0.05);}.wp-block-site-tagline,.wp-block-latest-posts .read-more {margin-top: 15px;}.wp-block-loginout p label {display: block;}.wp-block-loginout p:not(.login-remember):not(.login-submit) input {width: 100%;}.wp-block-loginout input:focus {border-color: transparent;}.wp-block-loginout input:focus {outline: thin dotted;}.entry-content .wp-block-media-text .wp-block-media-text__content {padding: 0 0 0 8%;}.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {padding: 0 8% 0 0;}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content {padding: 8%;}.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover__inner-container,.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover-image-text,.entry-content .wp-block-cover:not([class*="background-color"]) .wp-block-cover-text,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover__inner-container,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover-image-text,.entry-content .wp-block-cover-image:not([class*="background-color"]) .wp-block-cover-text {color: var(--ast-global-color-5);}.wp-block-loginout .login-remember input {width: 1.1rem;height: 1.1rem;margin: 0 5px 4px 0;vertical-align: middle;}.wp-block-latest-posts > li > *:first-child,.wp-block-latest-posts:not(.is-grid) > li:first-child {margin-top: 0;}.entry-content .wp-block-buttons,.entry-content .wp-block-uagb-buttons {margin-bottom: 1.5em;}.wp-block-search__inside-wrapper .wp-block-search__input {padding: 0 10px;color: var(--ast-global-color-3);background: var(--ast-global-color-5);border-color: var(--ast-border-color);}.wp-block-latest-posts .read-more {margin-bottom: 1.5em;}.wp-block-search__no-button .wp-block-search__inside-wrapper .wp-block-search__input {padding-top: 5px;padding-bottom: 5px;}.wp-block-latest-posts .wp-block-latest-posts__post-date,.wp-block-latest-posts .wp-block-latest-posts__post-author {font-size: 1rem;}.wp-block-latest-posts > li > *,.wp-block-latest-posts:not(.is-grid) > li {margin-top: 12px;margin-bottom: 12px;}.ast-page-builder-template .entry-content[ast-blocks-layout] > *,.ast-page-builder-template .entry-content[ast-blocks-layout] > .alignfull > * {max-width: none;}.ast-page-builder-template .entry-content[ast-blocks-layout] > .alignwide > * {max-width: var(--wp--custom--ast-wide-width-size);}.ast-page-builder-template .entry-content[ast-blocks-layout] > .inherit-container-width > *,.ast-page-builder-template .entry-content[ast-blocks-layout] > * > *,.entry-content[ast-blocks-layout] > .wp-block-cover .wp-block-cover__inner-container {max-width: var(--wp--custom--ast-content-width-size);margin-left: auto;margin-right: auto;}.entry-content[ast-blocks-layout] .wp-block-cover:not(.alignleft):not(.alignright) {width: auto;}@media(max-width: 1200px) {.ast-separate-container .entry-content > .alignfull,.ast-separate-container .entry-content[ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content[ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content .alignfull {margin-left: calc(-1 * min(var(--ast-container-default-xlg-padding),20px)) ;margin-right: calc(-1 * min(var(--ast-container-default-xlg-padding),20px));}}@media(min-width: 1201px) {.ast-separate-container .entry-content > .alignfull {margin-left: calc(-1 * var(--ast-container-default-xlg-padding) );margin-right: calc(-1 * var(--ast-container-default-xlg-padding) );}.ast-separate-container .entry-content[ast-blocks-layout] > .alignwide,.ast-plain-container .entry-content[ast-blocks-layout] > .alignwide {margin-left: calc(-1 * var(--wp--custom--ast-default-block-left-padding) );margin-right: calc(-1 * var(--wp--custom--ast-default-block-right-padding) );}}@media(min-width: 921px) {.ast-separate-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width) > :where(:not(.alignleft):not(.alignright)),.ast-plain-container .entry-content .wp-block-group.alignwide:not(.inherit-container-width) > :where(:not(.alignleft):not(.alignright)) {max-width: calc( var(--wp--custom--ast-content-width-size) + 80px );}.ast-plain-container.ast-right-sidebar .entry-content[ast-blocks-layout] .alignfull,.ast-plain-container.ast-left-sidebar .entry-content[ast-blocks-layout] .alignfull {margin-left: -60px;margin-right: -60px;}}@media(min-width: 544px) {.entry-content > .alignleft {margin-right: 20px;}.entry-content > .alignright {margin-left: 20px;}}@media (max-width:544px){.wp-block-columns .wp-block-column:not(:last-child){margin-bottom:20px;}.wp-block-latest-posts{margin:0;}}@media( max-width: 600px ) {.entry-content .wp-block-media-text .wp-block-media-text__content,.entry-content .wp-block-media-text.has-media-on-the-right .wp-block-media-text__content {padding: 8% 0 0;}.entry-content .wp-block-media-text.has-background .wp-block-media-text__content {padding: 8%;}}.ast-page-builder-template .entry-header {padding-left: 0;}.ast-narrow-container .site-content .wp-block-uagb-image--align-full .wp-block-uagb-image__figure {max-width: 100%;margin-left: auto;margin-right: auto;}.entry-content ul,.entry-content ol {padding: revert;margin: revert;padding-left: 20px;}:root .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-color{color:var(--ast-global-color-0);}:root .wp-block-button .has-ast-global-color-0-background-color{background-color:var(--ast-global-color-0);}:root .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-color{color:var(--ast-global-color-1);}:root .wp-block-button .has-ast-global-color-1-background-color{background-color:var(--ast-global-color-1);}:root .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-color{color:var(--ast-global-color-2);}:root .wp-block-button .has-ast-global-color-2-background-color{background-color:var(--ast-global-color-2);}:root .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-color{color:var(--ast-global-color-3);}:root .wp-block-button .has-ast-global-color-3-background-color{background-color:var(--ast-global-color-3);}:root .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-color{color:var(--ast-global-color-4);}:root .wp-block-button .has-ast-global-color-4-background-color{background-color:var(--ast-global-color-4);}:root .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-color{color:var(--ast-global-color-5);}:root .wp-block-button .has-ast-global-color-5-background-color{background-color:var(--ast-global-color-5);}:root .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-color{color:var(--ast-global-color-6);}:root .wp-block-button .has-ast-global-color-6-background-color{background-color:var(--ast-global-color-6);}:root .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-color{color:var(--ast-global-color-7);}:root .wp-block-button .has-ast-global-color-7-background-color{background-color:var(--ast-global-color-7);}:root .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-color{color:var(--ast-global-color-8);}:root .wp-block-button .has-ast-global-color-8-background-color{background-color:var(--ast-global-color-8);}:root{--ast-global-color-0:#046bd2;--ast-global-color-1:#045cb4;--ast-global-color-2:#1e293b;--ast-global-color-3:#334155;--ast-global-color-4:#F0F5FA;--ast-global-color-5:#FFFFFF;--ast-global-color-6:#D1D5DB;--ast-global-color-7:#111111;--ast-global-color-8:#111111;}:root {--ast-border-color : var(--ast-global-color-6);}.ast-single-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-single-entry-banner[data-banner-layout="layout-1"] {max-width: 1200px;background: inherit;padding: 20px 0;}.ast-single-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-single-entry-banner + .site-content .entry-header {margin-bottom: 0;}.site .ast-author-avatar {--ast-author-avatar-size: ;}a.ast-underline-text {text-decoration: underline;}.ast-container > .ast-terms-link {position: relative;display: block;}a.ast-button.ast-badge-tax {padding: 4px 8px;border-radius: 3px;font-size: inherit;}header.entry-header .entry-title{font-weight:600;font-size:32px;font-size:2rem;}header.entry-header > *:not(:last-child){margin-bottom:10px;}header.entry-header .post-thumb-img-content{text-align:center;}header.entry-header .post-thumb img,.ast-single-post-featured-section.post-thumb img{aspect-ratio:16/9;width:100%;height:100%;}.ast-archive-entry-banner {-js-display: flex;display: flex;flex-direction: column;justify-content: center;text-align: center;position: relative;background: #eeeeee;}.ast-archive-entry-banner[data-banner-width-type="custom"] {margin: 0 auto;width: 100%;}.ast-archive-entry-banner[data-banner-layout="layout-1"] {background: inherit;padding: 20px 0;text-align: left;}body.archive .ast-archive-description{max-width:1200px;width:100%;text-align:left;padding-top:3em;padding-right:3em;padding-bottom:3em;padding-left:3em;}body.archive .ast-archive-description .ast-archive-title,body.archive .ast-archive-description .ast-archive-title *{font-weight:600;font-size:32px;font-size:2rem;}body.archive .ast-archive-description > *:not(:last-child){margin-bottom:10px;}@media (max-width:921px){body.archive .ast-archive-description{text-align:left;}}@media (max-width:544px){body.archive .ast-archive-description{text-align:left;}}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;text-decoration:none;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:var(--ast-global-color-2);}.entry-title a{color:var(--ast-global-color-2);}@media (max-width:921px){.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-tablet-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}@media (max-width:544px){.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-firstrow .ast-builder-grid-row > *:first-child,.ast-builder-grid-row-container.ast-builder-grid-row-mobile-3-lastrow .ast-builder-grid-row > *:last-child{grid-column:1 / -1;}}.ast-builder-layout-element[data-section="title_tagline"]{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-layout-element[data-section="title_tagline"]{display:flex;}}.ast-builder-menu-1{font-family:'Poppins',sans-serif;font-weight:500;}.ast-builder-menu-1 .menu-item > .menu-link{font-size:13px;font-size:0.8125rem;color:var(--ast-global-color-7);}.ast-builder-menu-1 .menu-item > .ast-menu-toggle{color:var(--ast-global-color-7);}.ast-builder-menu-1 .menu-item:hover > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .menu-link,.ast-builder-menu-1 .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle,.ast-builder-menu-1 .current-menu-ancestor > .menu-link{color:var(--ast-global-color-1);}.ast-builder-menu-1 .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-1 .sub-menu,.ast-builder-menu-1 .inline-on-mobile .sub-menu{border-top-width:2px;border-bottom-width:0px;border-right-width:0px;border-left-width:0px;border-color:var(--ast-global-color-0);border-style:solid;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0px;}.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu:before,.ast-desktop .ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper:before{height:calc( 0px + 5px );}.ast-builder-menu-1 .main-header-menu,.ast-builder-menu-1 .main-header-menu .sub-menu{background-image:none;}.ast-desktop .ast-builder-menu-1 .menu-item .sub-menu .menu-link{border-style:none;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .inline-on-mobile .menu-item.menu-item-has-children > .ast-menu-toggle{right:-15px;}.ast-builder-menu-1 .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1 .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-1 .main-header-menu > .menu-item > .sub-menu,.ast-builder-menu-1 .main-header-menu > .menu-item > .astra-full-megamenu-wrapper{margin-top:0;}}.ast-builder-menu-1{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-1{display:flex;}}.site-below-footer-wrap{padding-top:20px;padding-bottom:20px;}.site-below-footer-wrap[data-section="section-below-footer-builder"]{background-color:var(--ast-global-color-5);min-height:60px;border-style:solid;border-width:0px;border-top-width:1px;border-top-color:#eaeaea;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row{max-width:1200px;min-height:60px;margin-left:auto;margin-right:auto;}.site-below-footer-wrap[data-section="section-below-footer-builder"] .ast-builder-grid-row,.site-below-footer-wrap[data-section="section-below-footer-builder"] .site-footer-section{align-items:center;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-inline .site-footer-section{display:flex;margin-bottom:0;}.ast-builder-grid-row-full .ast-builder-grid-row{grid-template-columns:1fr;}@media (max-width:921px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-tablet-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-tablet-full .ast-builder-grid-row{grid-template-columns:1fr;}}@media (max-width:544px){.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-inline .site-footer-section{display:flex;margin-bottom:0;}.site-below-footer-wrap[data-section="section-below-footer-builder"].ast-footer-row-mobile-stack .site-footer-section{display:block;margin-bottom:10px;}.ast-builder-grid-row-container.ast-builder-grid-row-mobile-full .ast-builder-grid-row{grid-template-columns:1fr;}}.site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}@media (max-width:921px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}@media (max-width:544px){.ast-header-break-point .site-below-footer-wrap[data-section="section-below-footer-builder"]{display:grid;}}.ast-footer-copyright{text-align:center;}.ast-footer-copyright {color:var(--ast-global-color-3);}@media (max-width:921px){.ast-footer-copyright{text-align:center;}}@media (max-width:544px){.ast-footer-copyright{text-align:center;}}.ast-footer-copyright {font-size:16px;font-size:1rem;}.ast-footer-copyright.ast-builder-layout-element{display:flex;}@media (max-width:921px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}@media (max-width:544px){.ast-header-break-point .ast-footer-copyright.ast-builder-layout-element{display:flex;}}.footer-widget-area.widget-area.site-footer-focus-item{width:auto;}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-page .ast-menu-toggle{color:unset !important;background:unset !important;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.elementor-toc__list-wrapper{margin:0;}body .elementor hr{background-color:#ccc;margin:0;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.elementor-posts-container [CLASS*="ast-width-"]{width:100%;}.elementor-template-full-width .ast-container{display:block;}.elementor-screen-only,.screen-reader-text,.screen-reader-text span,.ui-helper-hidden-accessible{top:0 !important;}@media (max-width:544px){.elementor-element .elementor-wc-products .woocommerce[class*="columns-"] ul.products li.product{width:auto;margin:0;}.elementor-element .woocommerce .woocommerce-result-count{float:none;}}.ast-header-break-point .main-header-bar{border-bottom-width:1px;}@media (min-width:922px){.main-header-bar{border-bottom-width:1px;}}.main-header-menu .menu-item, #astra-footer-menu .menu-item, .main-header-bar .ast-masthead-custom-menu-items{-js-display:flex;display:flex;-webkit-box-pack:center;-webkit-justify-content:center;-moz-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-moz-box-orient:vertical;-moz-box-direction:normal;-ms-flex-direction:column;flex-direction:column;}.main-header-menu > .menu-item > .menu-link, #astra-footer-menu > .menu-item > .menu-link{height:100%;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;-js-display:flex;display:flex;}.ast-header-break-point .main-navigation ul .menu-item .menu-link .icon-arrow:first-of-type svg{top:.2em;margin-top:0px;margin-left:0px;width:.65em;transform:translate(0, -2px) rotateZ(270deg);}.ast-mobile-popup-content .ast-submenu-expanded > .ast-menu-toggle{transform:rotateX(180deg);overflow-y:auto;}@media (min-width:922px){.ast-builder-menu .main-navigation > ul > li:last-child a{margin-right:0;}}.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-separate-container .ast-article-inner{background-color:var(--ast-global-color-5);}}.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description, .ast-separate-container .comments-area{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-separate-container .ast-article-single:not(.ast-related-post), .woocommerce.ast-separate-container .ast-woocommerce-container, .ast-separate-container .error-404, .ast-separate-container .no-results, .single.ast-separate-container .site-main .ast-author-meta, .ast-separate-container .related-posts-title-wrapper,.ast-separate-container .comments-count-wrapper, .ast-box-layout.ast-plain-container .site-content,.ast-padded-layout.ast-plain-container .site-content, .ast-separate-container .ast-archive-description{background-color:var(--ast-global-color-5);}}.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-separate-container.ast-two-container #secondary .widget{background-color:var(--ast-global-color-5);}}.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-5);}@media (max-width:921px){.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-plain-container, .ast-page-builder-template{background-color:var(--ast-global-color-5);}}
+		#ast-scroll-top {
+			display: none;
+			position: fixed;
+			text-align: center;
+			cursor: pointer;
+			z-index: 99;
+			width: 2.1em;
+			height: 2.1em;
+			line-height: 2.1;
+			color: #ffffff;
+			border-radius: 2px;
+			content: "";
+			outline: inherit;
+		}
+		@media (min-width: 769px) {
+			#ast-scroll-top {
+				content: "769";
+			}
+		}
+		#ast-scroll-top .ast-icon.icon-arrow svg {
+			margin-left: 0px;
+			vertical-align: middle;
+			transform: translate(0, -20%) rotate(180deg);
+			width: 1.6em;
+		}
+		.ast-scroll-to-top-right {
+			right: 30px;
+			bottom: 30px;
+		}
+		.ast-scroll-to-top-left {
+			left: 30px;
+			bottom: 30px;
+		}
+	#ast-scroll-top{background-color:var(--ast-global-color-0);font-size:15px;}@media (max-width:921px){#ast-scroll-top .ast-icon.icon-arrow svg{width:1em;}}.ast-mobile-header-content > *,.ast-desktop-header-content > * {padding: 10px 0;height: auto;}.ast-mobile-header-content > *:first-child,.ast-desktop-header-content > *:first-child {padding-top: 10px;}.ast-mobile-header-content > .ast-builder-menu,.ast-desktop-header-content > .ast-builder-menu {padding-top: 0;}.ast-mobile-header-content > *:last-child,.ast-desktop-header-content > *:last-child {padding-bottom: 0;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search label,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search label {width: 100%;}.ast-desktop-header-content .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before {transform: rotateX(180deg);}#ast-desktop-header .ast-desktop-header-content,.ast-mobile-header-content .ast-search-icon,.ast-desktop-header-content .ast-search-icon,.ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-mobile-header-wrap .ast-mobile-header-content,.ast-main-header-nav-open.ast-popup-nav-open .ast-desktop-header-content {display: none;}.ast-main-header-nav-open.ast-header-break-point #ast-desktop-header .ast-desktop-header-content,.ast-main-header-nav-open.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content {display: block;}.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-up > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-slide-down > .menu-item .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item > .sub-menu,.ast-desktop .ast-desktop-header-content .astra-menu-animation-fade > .menu-item .menu-item > .sub-menu {opacity: 1;visibility: visible;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation {width: unset;margin: unset;}.ast-mobile-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle,.ast-desktop-header-content.content-align-flex-end .main-header-bar-navigation .menu-item-has-children > .ast-menu-toggle {left: calc( 20px - 0.907em);right: auto;}.ast-mobile-header-content .ast-search-menu-icon,.ast-mobile-header-content .ast-search-menu-icon.slide-search,.ast-desktop-header-content .ast-search-menu-icon,.ast-desktop-header-content .ast-search-menu-icon.slide-search {width: 100%;position: relative;display: block;right: auto;transform: none;}.ast-mobile-header-content .ast-search-menu-icon.slide-search .search-form,.ast-mobile-header-content .ast-search-menu-icon .search-form,.ast-desktop-header-content .ast-search-menu-icon.slide-search .search-form,.ast-desktop-header-content .ast-search-menu-icon .search-form {right: 0;visibility: visible;opacity: 1;position: relative;top: auto;transform: none;padding: 0;display: block;overflow: hidden;}.ast-mobile-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-mobile-header-content .ast-search-menu-icon .search-field,.ast-desktop-header-content .ast-search-menu-icon.ast-inline-search .search-field,.ast-desktop-header-content .ast-search-menu-icon .search-field {width: 100%;padding-right: 5.5em;}.ast-mobile-header-content .ast-search-menu-icon .search-submit,.ast-desktop-header-content .ast-search-menu-icon .search-submit {display: block;position: absolute;height: 100%;top: 0;right: 0;padding: 0 1em;border-radius: 0;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation ul .sub-menu .menu-link {padding-left: 30px;}.ast-hfb-header.ast-default-menu-enable.ast-header-break-point .ast-mobile-header-wrap .ast-mobile-header-content .main-header-bar-navigation .sub-menu .menu-item .menu-item .menu-link {padding-left: 40px;}.ast-mobile-popup-drawer.active .ast-mobile-popup-inner{background-color:#ffffff;;}.ast-mobile-header-wrap .ast-mobile-header-content, .ast-desktop-header-content{background-color:#ffffff;;}.ast-mobile-popup-content > *, .ast-mobile-header-content > *, .ast-desktop-popup-content > *, .ast-desktop-header-content > *{padding-top:0px;padding-bottom:0px;}.content-align-flex-start .ast-builder-layout-element{justify-content:flex-start;}.content-align-flex-start .main-header-menu{text-align:left;}.ast-mobile-popup-drawer.active .menu-toggle-close{color:#3a3a3a;}.ast-mobile-header-wrap .ast-primary-header-bar,.ast-primary-header-bar .site-primary-header-wrap{min-height:404px;}.ast-desktop .ast-primary-header-bar .main-header-menu > .menu-item{line-height:404px;}.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-primary-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-below-header-bar,.ast-header-break-point #masthead .ast-mobile-header-wrap .ast-above-header-bar{padding-left:20px;padding-right:20px;}.ast-header-break-point .ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}@media (min-width:922px){.ast-primary-header-bar{border-bottom-width:1px;border-bottom-color:#eaeaea;border-bottom-style:solid;}}.ast-primary-header-bar{background-color:#ffffff;background-image:none;}.ast-primary-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-primary-header-bar{display:grid;}}[data-section="section-header-mobile-trigger"] .ast-button-wrap .ast-mobile-menu-trigger-minimal{color:var(--ast-global-color-0);border:none;background:transparent;}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-toggle-icon .ast-mobile-svg{width:20px;height:20px;fill:var(--ast-global-color-0);}[data-section="section-header-mobile-trigger"] .ast-button-wrap .mobile-menu-wrap .mobile-menu{color:var(--ast-global-color-0);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .menu-link, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-hfb-header .ast-builder-menu-mobile .main-header-menu, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .menu-link, .ast-hfb-header .ast-builder-menu-mobile .main-navigation .menu-item .sub-menu .menu-link{border-style:none;}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}@media (max-width:921px){.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .menu-link{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .main-header-menu .menu-item > .ast-menu-toggle{color:var(--ast-global-color-3);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);background:var(--ast-global-color-4);}.ast-builder-menu-mobile .main-navigation .menu-item:hover > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .menu-link, .ast-builder-menu-mobile .main-navigation .inline-on-mobile .menu-item.current-menu-item > .ast-menu-toggle, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .menu-link, .ast-builder-menu-mobile .main-navigation .menu-item.current-menu-ancestor > .ast-menu-toggle{color:var(--ast-global-color-1);background:var(--ast-global-color-4);}.ast-builder-menu-mobile .main-navigation .menu-item.current-menu-item > .ast-menu-toggle{color:var(--ast-global-color-1);}.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}.ast-builder-menu-mobile .main-navigation .menu-item-has-children > .menu-link:after{content:unset;}.ast-builder-menu-mobile .main-navigation .main-header-menu, .ast-builder-menu-mobile .main-navigation .main-header-menu .sub-menu{background-color:var(--ast-global-color-5);}}@media (max-width:544px){.ast-builder-menu-mobile .main-navigation .menu-item.menu-item-has-children > .ast-menu-toggle{top:0;}}.ast-builder-menu-mobile .main-navigation{display:block;}@media (max-width:921px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}@media (max-width:544px){.ast-header-break-point .ast-builder-menu-mobile .main-navigation{display:block;}}.ast-above-header .main-header-bar-navigation{height:100%;}.ast-header-break-point .ast-mobile-header-wrap .ast-above-header-wrap .main-header-bar-navigation .inline-on-mobile .menu-item .menu-link{border:none;}.ast-header-break-point .ast-mobile-header-wrap .ast-above-header-wrap .main-header-bar-navigation .inline-on-mobile .menu-item-has-children > .ast-menu-toggle::before{font-size:.6rem;}.ast-header-break-point .ast-mobile-header-wrap .ast-above-header-wrap .main-header-bar-navigation .ast-submenu-expanded > .ast-menu-toggle::before{transform:rotateX(180deg);}.ast-mobile-header-wrap .ast-above-header-bar ,.ast-above-header-bar .site-above-header-wrap{min-height:30px;}.ast-desktop .ast-above-header-bar .main-header-menu > .menu-item{line-height:30px;}.ast-desktop .ast-above-header-bar .ast-header-woo-cart,.ast-desktop .ast-above-header-bar .ast-header-edd-cart{line-height:30px;}.ast-above-header-bar{border-bottom-width:0px;border-bottom-color:var(--ast-global-color-1);border-bottom-style:solid;}.ast-above-header.ast-above-header-bar{background-color:var(--ast-global-color-5);background-image:none;}.ast-header-break-point .ast-above-header-bar{background-color:var(--ast-global-color-5);}@media (max-width:921px){#masthead .ast-mobile-header-wrap .ast-above-header-bar{padding-left:20px;padding-right:20px;}}.ast-above-header.ast-above-header-bar, .ast-header-break-point #masthead.site-header .ast-above-header-bar{margin-top:-10px;}.ast-above-header-bar{display:block;}@media (max-width:921px){.ast-header-break-point .ast-above-header-bar{display:grid;}}@media (max-width:544px){.ast-header-break-point .ast-above-header-bar{display:grid;}}:root{--e-global-color-astglobalcolor0:#046bd2;--e-global-color-astglobalcolor1:#045cb4;--e-global-color-astglobalcolor2:#1e293b;--e-global-color-astglobalcolor3:#334155;--e-global-color-astglobalcolor4:#F0F5FA;--e-global-color-astglobalcolor5:#FFFFFF;--e-global-color-astglobalcolor6:#D1D5DB;--e-global-color-astglobalcolor7:#111111;--e-global-color-astglobalcolor8:#111111;}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css' href='https://fonts.googleapis.com/css?family=Poppins%3A500&#038;display=fallback&#038;ver=4.7.3' media='all' />
+<link rel='stylesheet' id='astra-menu-animation-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/themes/astra/assets/css/minified/menu-animation.min.css?ver=4.7.3' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.37' media='all' />
+<style id='wp-emoji-styles-inline-css'>
 
 	img.wp-smiley, img.emoji {
 		display: inline !important;
@@ -64,1109 +70,758 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 		padding: 0 !important;
 	}
 </style>
-<link rel='stylesheet' id='wp-block-library-css' href='https://medikasuherman.ac.id/wp-includes/css/dist/block-library/style.min.css?ver=6.6.2' type='text/css' media='all' />
-<style id='classic-theme-styles-inline-css' type='text/css'>
-/*! This file is auto-generated */
-.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--ast-global-color-0: var(--ast-global-color-0);--wp--preset--color--ast-global-color-1: var(--ast-global-color-1);--wp--preset--color--ast-global-color-2: var(--ast-global-color-2);--wp--preset--color--ast-global-color-3: var(--ast-global-color-3);--wp--preset--color--ast-global-color-4: var(--ast-global-color-4);--wp--preset--color--ast-global-color-5: var(--ast-global-color-5);--wp--preset--color--ast-global-color-6: var(--ast-global-color-6);--wp--preset--color--ast-global-color-7: var(--ast-global-color-7);--wp--preset--color--ast-global-color-8: var(--ast-global-color-8);--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}body { margin: 0;--wp--style--global--content-size: var(--wp--custom--ast-content-width-size);--wp--style--global--wide-size: var(--wp--custom--ast-wide-width-size); }.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }:where(.wp-site-blocks) > * { margin-block-start: 24px; margin-block-end: 0; }:where(.wp-site-blocks) > :first-child:first-child { margin-block-start: 0; }:where(.wp-site-blocks) > :last-child:last-child { margin-block-end: 0; }body { --wp--style--block-gap: 24px; }:where(body .is-layout-flow)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-flow)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-flow)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-constrained)  > :first-child:first-child{margin-block-start: 0;}:where(body .is-layout-constrained)  > :last-child:last-child{margin-block-end: 0;}:where(body .is-layout-constrained)  > *{margin-block-start: 24px;margin-block-end: 0;}:where(body .is-layout-flex) {gap: 24px;}:where(body .is-layout-grid) {gap: 24px;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}a:where(:not(.wp-element-button)){text-decoration: none;}.wp-element-button, .wp-block-button__link{background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;line-height: inherit;padding: calc(0.667em + 2px) calc(1.333em + 2px);text-decoration: none;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-color{color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-color{color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-color{color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-color{color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-color{color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-color{color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-color{color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-color{color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-color{color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-background-color{background-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-background-color{background-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-background-color{background-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-background-color{background-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-background-color{background-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-background-color{background-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-background-color{background-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-background-color{background-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-background-color{background-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-ast-global-color-0-border-color{border-color: var(--wp--preset--color--ast-global-color-0) !important;}.has-ast-global-color-1-border-color{border-color: var(--wp--preset--color--ast-global-color-1) !important;}.has-ast-global-color-2-border-color{border-color: var(--wp--preset--color--ast-global-color-2) !important;}.has-ast-global-color-3-border-color{border-color: var(--wp--preset--color--ast-global-color-3) !important;}.has-ast-global-color-4-border-color{border-color: var(--wp--preset--color--ast-global-color-4) !important;}.has-ast-global-color-5-border-color{border-color: var(--wp--preset--color--ast-global-color-5) !important;}.has-ast-global-color-6-border-color{border-color: var(--wp--preset--color--ast-global-color-6) !important;}.has-ast-global-color-7-border-color{border-color: var(--wp--preset--color--ast-global-color-7) !important;}.has-ast-global-color-8-border-color{border-color: var(--wp--preset--color--ast-global-color-8) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<style id='global-styles-inline-css' type='text/css'>
-:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
-:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
-:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
-</style>
-<link rel='stylesheet' id='ctf_styles-css' href='https://medikasuherman.ac.id/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=1.8.4' type='text/css' media='all' />
-<link rel='stylesheet' id='table-addons-for-elementor-css' href='https://medikasuherman.ac.id/wp-content/plugins/table-addons-for-elementor/public/css/table-addons-for-elementor-public.css?ver=1.4.0' type='text/css' media='all' />
-<link rel='stylesheet' id='wpsm_tabs_r-font-awesome-front-css' href='https://medikasuherman.ac.id/wp-content/plugins/tabs-responsive/assets/css/font-awesome/css/font-awesome.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wpsm_tabs_r_bootstrap-front-css' href='https://medikasuherman.ac.id/wp-content/plugins/tabs-responsive/assets/css/bootstrap-front.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wpsm_tabs_r_animate-css' href='https://medikasuherman.ac.id/wp-content/plugins/tabs-responsive/assets/css/animate.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='wppa_style-css' href='https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/wppa-style.css?ver=240904-103058' type='text/css' media='all' />
-<style id='wppa_style-inline-css' type='text/css'>
+<link rel='stylesheet' id='hfe-style-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.37' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.23.1' media='all' />
+<link rel='stylesheet' id='swiper-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5' media='all' />
+<link rel='stylesheet' id='elementor-post-6-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/uploads/elementor/css/post-6.css?ver=1731143743' media='all' />
+<link rel='stylesheet' id='elementor-global-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/uploads/elementor/css/global.css?ver=1731143743' media='all' />
+<link rel='stylesheet' id='elementor-post-7-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/uploads/elementor/css/post-7.css?ver=1731148570' media='all' />
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.2.1' media='all' />
+<link rel='stylesheet' id='tablepress-default-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/tablepress/css/build/default.css?ver=2.4' media='all' />
+<link rel='stylesheet' id='ekit-widget-styles-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.2.1' media='all' />
+<link rel='stylesheet' id='ekit-responsive-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.2.1' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPoppins%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=swap&#038;ver=6.5.5' media='all' />
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin><!--[if IE]>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=4.7.3" id="astra-flexibility-js"></script>
+<script id="astra-flexibility-js-after">
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://sentrahki.medikasuherman.ac.id/wp-json/" /><link rel="alternate" type="application/json" href="https://sentrahki.medikasuherman.ac.id/wp-json/wp/v2/pages/7" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sentrahki.medikasuherman.ac.id/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.5.5" />
+<link rel="canonical" href="https://sentrahki.medikasuherman.ac.id/" />
+<link rel='shortlink' href='https://sentrahki.medikasuherman.ac.id/' />
+<link rel="alternate" type="application/json+oembed" href="https://sentrahki.medikasuherman.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsentrahki.medikasuherman.ac.id%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://sentrahki.medikasuherman.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fsentrahki.medikasuherman.ac.id%2F&#038;format=xml" />
+<meta name="generator" content="Elementor 3.23.1; features: e_optimized_css_loading, e_font_icon_svg, additional_custom_breakpoints, e_optimized_control_loading, e_lazyload, e_element_cache; settings: css_print_method-external, google_font-enabled, font_display-swap">
+			<style>
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
+				.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
+					background-image: none !important;
+				}
+				@media screen and (max-height: 1024px) {
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+3):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+				@media screen and (max-height: 640px) {
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload),
+					.e-con.e-parent:nth-of-type(n+2):not(.e-lazyloaded):not(.e-no-lazyload) * {
+						background-image: none !important;
+					}
+				}
+			</style>
+			</head>
 
-.wppa-box {	border-style: solid; border-width:1px;border-radius:6px; -moz-border-radius:6px;margin-bottom:8px;background-color:#eeeeee;border-color:#cccccc; }
-.wppa-mini-box { border-style: solid; border-width:1px;border-radius:2px;border-color:#cccccc; }
-.wppa-cover-box {  }
-.wppa-cover-text-frame {  }
-.wppa-box-text {  }
-.wppa-box-text, .wppa-box-text-nocolor { font-weight:normal; }
-.wppa-thumb-text { font-weight:normal; }
-.wppa-nav-text { font-weight:normal; }
-.wppa-img { background-color:#eeeeee; }
-.wppa-title { font-weight:bold; }
-.wppa-fulldesc { font-weight:normal; }
-.wppa-fulltitle { font-weight:normal; }
-</style>
-<link rel='stylesheet' id='hfe-style-css' href='https://medikasuherman.ac.id/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.6.14' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-icons-css' href='https://medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.13.0' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-frontend-css' href='https://medikasuherman.ac.id/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-post-2856-css' href='https://medikasuherman.ac.id/wp-content/uploads/elementor/css/post-2856.css?ver=1640232583' type='text/css' media='all' />
-<link rel='stylesheet' id='cffstyles-css' href='https://medikasuherman.ac.id/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css?ver=4.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-5-all-css' href='https://medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='font-awesome-4-shim-css' href='https://medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.5.2' type='text/css' media='all' />
-<link rel='stylesheet' id='elementor-global-css' href='https://medikasuherman.ac.id/wp-content/uploads/elementor/css/global.css?ver=1640232583' type='text/css' media='all' />
-<link rel='stylesheet' id='divi-fonts-css' href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='divi-style-css' href='https://medikasuherman.ac.id/wp-content/themes/Divi%20Pack/Divi/style.css?ver=4.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='cff-css' href='https://medikasuherman.ac.id/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.css?ver=4.1.1' type='text/css' media='all' />
-<link rel='stylesheet' id='sb-font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='et-builder-googlefonts-cached-css' href='https://fonts.googleapis.com/css?family=Abel%3Aregular%7CAsap%3Aregular%2Citalic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%7CABeeZee%3Aregular%2Citalic%7CAlegreya%3Aregular%2Citalic%2C500%2C500italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAcme%3Aregular%7CNunito+Sans%3A200%2C200italic%2C300%2C300italic%2Cregular%2Citalic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=6.6.2#038;subset=latin,latin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='tablepress-default-css' href='https://medikasuherman.ac.id/wp-content/plugins/tablepress/css/build/default.css?ver=2.1.5' type='text/css' media='all' />
-<link rel='stylesheet' id='dashicons-css' href='https://medikasuherman.ac.id/wp-includes/css/dashicons.min.css?ver=6.6.2' type='text/css' media='all' />
-<link rel='stylesheet' id='eael-general-css' href='https://medikasuherman.ac.id/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=5.8.3' type='text/css' media='all' />
-<link rel='stylesheet' id='google-fonts-1-css' href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=6.6.2' type='text/css' media='all' />
-<link rel="stylesheet" type="text/css" href="https://medikasuherman.ac.id/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider.min.css?ver=f4759c2e" media="all">
-<style data-related="n2-ss-2">div#n2-ss-2 .n2-ss-slider-1{display:grid;position:relative;}div#n2-ss-2 .n2-ss-slider-2{display:grid;position:relative;overflow:hidden;padding:0px 0px 0px 0px;border:0px solid RGBA(62,62,62,1);border-radius:0px;background-clip:padding-box;background-repeat:repeat;background-position:50% 50%;background-size:cover;background-attachment:scroll;z-index:1;}div#n2-ss-2:not(.n2-ss-loaded) .n2-ss-slider-2{background-image:none !important;}div#n2-ss-2 .n2-ss-slider-3{display:grid;grid-template-areas:'cover';position:relative;overflow:hidden;z-index:10;}div#n2-ss-2 .n2-ss-slider-3 > *{grid-area:cover;}div#n2-ss-2 .n2-ss-slide-backgrounds,div#n2-ss-2 .n2-ss-slider-3 > .n2-ss-divider{position:relative;}div#n2-ss-2 .n2-ss-slide-backgrounds{z-index:10;}div#n2-ss-2 .n2-ss-slide-backgrounds > *{overflow:hidden;}div#n2-ss-2 .n2-ss-slide-background{transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slider-4{place-self:center;position:relative;width:100%;height:100%;z-index:20;display:grid;grid-template-areas:'slide';}div#n2-ss-2 .n2-ss-slider-4 > *{grid-area:slide;}div#n2-ss-2.n2-ss-full-page--constrain-ratio .n2-ss-slider-4{height:auto;}div#n2-ss-2 .n2-ss-slide{display:grid;place-items:center;grid-auto-columns:100%;position:relative;z-index:20;-webkit-backface-visibility:hidden;transform:translateX(-100000px);}div#n2-ss-2 .n2-ss-slide{perspective:1500px;}div#n2-ss-2 .n2-ss-slide-active{z-index:21;}.n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-2 .n2-ss-background-animation{position:absolute;top:0;left:0;width:100%;height:100%;z-index:3;}div#n2-ss-2 .n2-ss-background-animation .n2-ss-slide-background{z-index:auto;}div#n2-ss-2 .n2-bganim-side{position:absolute;left:0;top:0;overflow:hidden;background:RGBA(51,51,51,1);}div#n2-ss-2 .n2-bganim-tile-overlay-colored{z-index:100000;background:RGBA(51,51,51,1);}div#n2-ss-2 .nextend-arrow{cursor:pointer;overflow:hidden;line-height:0 !important;z-index:18;-webkit-user-select:none;}div#n2-ss-2 .nextend-arrow img{position:relative;display:block;}div#n2-ss-2 .nextend-arrow img.n2-arrow-hover-img{display:none;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-hover-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-hover-img{display:inline;}div#n2-ss-2 .nextend-arrow:FOCUS img.n2-arrow-normal-img,div#n2-ss-2 .nextend-arrow:HOVER img.n2-arrow-normal-img{display:none;}div#n2-ss-2 .nextend-arrow-animated{overflow:hidden;}div#n2-ss-2 .nextend-arrow-animated > div{position:relative;}div#n2-ss-2 .nextend-arrow-animated .n2-active{position:absolute;}div#n2-ss-2 .nextend-arrow-animated-fade{transition:background 0.3s, opacity 0.4s;}div#n2-ss-2 .nextend-arrow-animated-horizontal > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-horizontal .n2-active{top:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal .n2-active{left:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal .n2-active{right:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-horizontal:FOCUS > div{transform:translateX(100%);}div#n2-ss-2 .nextend-arrow-animated-vertical > div{transition:all 0.4s;transform:none;}div#n2-ss-2 .nextend-arrow-animated-vertical .n2-active{left:0;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical .n2-active{top:100%;}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical .n2-active{bottom:100%;}div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-previous.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(-100%);}div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:HOVER > div,div#n2-ss-2 .nextend-arrow-next.nextend-arrow-animated-vertical:FOCUS > div{transform:translateY(100%);}div#n2-ss-2 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-2 .nextend-arrow img{width: 32px}@media (min-width: 1200px){div#n2-ss-2 [data-hide-desktopportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 1199px) and (min-width: 901px),(orientation: portrait) and (max-width: 1199px) and (min-width: 701px){div#n2-ss-2 .n2-ss-slide-limiter{max-width:3000px;}div#n2-ss-2 [data-hide-tabletportrait="1"]{display: none !important;}}@media (orientation: landscape) and (max-width: 900px),(orientation: portrait) and (max-width: 700px){div#n2-ss-2 .n2-ss-slide-limiter{max-width:480px;}div#n2-ss-2 [data-hide-mobileportrait="1"]{display: none !important;}div#n2-ss-2 .nextend-arrow img{width: 16px}}</style>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/dist/hooks.min.js?ver=2810c76e705dd1a53b18" id="wp-hooks-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
-<script type="text/javascript" id="wp-i18n-js-after">
-/* <![CDATA[ */
-wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/js/wppa-decls.js?ver=240904-33058" id="wppa-decls-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/jquery.form.min.js?ver=4.3.0" id="jquery-form-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/imagesloaded.min.js?ver=5.0.0" id="imagesloaded-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/masonry.min.js?ver=4.2.2" id="masonry-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/jquery.masonry.min.js?ver=3.1.2b" id="jquery-masonry-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3" id="jquery-ui-core-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3" id="jquery-ui-mouse-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/resizable.min.js?ver=1.13.3" id="jquery-ui-resizable-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.3" id="jquery-ui-draggable-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/controlgroup.min.js?ver=1.13.3" id="jquery-ui-controlgroup-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/checkboxradio.min.js?ver=1.13.3" id="jquery-ui-checkboxradio-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/button.min.js?ver=1.13.3" id="jquery-ui-button-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/jquery/ui/dialog.min.js?ver=1.13.3" id="jquery-ui-dialog-js"></script>
-<script type="text/javascript" id="wppa-all-js-extra">
-/* <![CDATA[ */
-var wppaObj = {"restUrl":"https:\/\/medikasuherman.ac.id\/wp-json\/","restNonce":"ece8198301"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/js/wppa-all.js?ver=240904-33058" id="wppa-all-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/vendor/jquery-easing/jquery.easing.min.js?ver=8.8.03.003" id="nicescrollr-easing-min-js-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.5.2" id="font-awesome-4-shim-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/themes/Divi%20Pack/Divi/core/admin/js/es6-promise.auto.min.js?ver=6.6.2" id="es6-promise-js"></script>
-<script type="text/javascript" id="et-core-api-spam-recaptcha-js-extra">
-/* <![CDATA[ */
-var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"medikasuherman_ac_id"}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/themes/Divi%20Pack/Divi/core/admin/js/recaptcha.js?ver=6.6.2" id="et-core-api-spam-recaptcha-js"></script>
-<link rel="https://api.w.org/" href="https://medikasuherman.ac.id/wp-json/" /><link rel="alternate" title="JSON" type="application/json" href="https://medikasuherman.ac.id/wp-json/wp/v2/pages/686" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://medikasuherman.ac.id/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 6.6.2" />
-<link rel='shortlink' href='https://medikasuherman.ac.id/' />
-<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://medikasuherman.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmedikasuherman.ac.id%2F" />
-<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://medikasuherman.ac.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmedikasuherman.ac.id%2F&#038;format=xml" />
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-59RCWVR');</script>
-<!-- End Google Tag Manager --><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
-body.custom-background { background-color: #1e73be; }
-</style>
-	<link rel="icon" href="https://medikasuherman.ac.id/wp-content/uploads/2021/06/Logo-UMS-ico.ico" sizes="32x32" />
-<link rel="icon" href="https://medikasuherman.ac.id/wp-content/uploads/2021/06/Logo-UMS-ico.ico" sizes="192x192" />
-<link rel="apple-touch-icon" href="https://medikasuherman.ac.id/wp-content/uploads/2021/06/Logo-UMS-ico.ico" />
-<meta name="msapplication-TileImage" content="https://medikasuherman.ac.id/wp-content/uploads/2021/06/Logo-UMS-ico.ico" />
-<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://medikasuherman.ac.id/wp-content/et-cache/1/1/global/et-divi-customizer-global-17299462244082.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><script>(function(){this._N2=this._N2||{_r:[],_d:[],r:function(){this._r.push(arguments)},d:function(){this._d.push(arguments)}}}).call(window);!function(a){a.indexOf("Safari")>0&&-1===a.indexOf("Chrome")&&document.documentElement.style.setProperty("--ss-safari-fix-225962","1px")}(navigator.userAgent);</script><script src="https://medikasuherman.ac.id/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/n2.min.js?ver=f4759c2e" defer async></script>
-<script src="https://medikasuherman.ac.id/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Application/Frontend/Assets/dist/smartslider-frontend.min.js?ver=f4759c2e" defer async></script>
-<script src="https://medikasuherman.ac.id/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/ss-simple.min.js?ver=f4759c2e" defer async></script>
-<script src="https://medikasuherman.ac.id/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Slider/SliderType/Simple/Assets/dist/smartslider-backgroundanimation.min.js?ver=f4759c2e" defer async></script>
-<script src="https://medikasuherman.ac.id/wp-content/plugins/smart-slider-3/Public/SmartSlider3/Widget/Arrow/ArrowImage/Assets/dist/w-arrow-image.min.js?ver=f4759c2e" defer async></script>
-<script>_N2.r('documentReady',function(){_N2.r(["documentReady","smartslider-frontend","smartslider-backgroundanimation","SmartSliderWidgetArrowImage","ss-simple"],function(){new _N2.SmartSliderSimple('n2-ss-2',{"admin":false,"callbacks":"","background.video.mobile":1,"loadingTime":2000,"alias":{"id":0,"smoothScroll":0,"slideSwitch":0,"scroll":1},"align":"normal","isDelayed":0,"responsive":{"mediaQueries":{"all":false,"desktopportrait":["(min-width: 1200px)"],"tabletportrait":["(orientation: landscape) and (max-width: 1199px) and (min-width: 901px)","(orientation: portrait) and (max-width: 1199px) and (min-width: 701px)"],"mobileportrait":["(orientation: landscape) and (max-width: 900px)","(orientation: portrait) and (max-width: 700px)"]},"base":{"slideOuterWidth":1920,"slideOuterHeight":800,"sliderWidth":1920,"sliderHeight":800,"slideWidth":1920,"slideHeight":800},"hideOn":{"desktopLandscape":false,"desktopPortrait":false,"tabletLandscape":false,"tabletPortrait":false,"mobileLandscape":false,"mobilePortrait":false},"onResizeEnabled":true,"type":"fullwidth","sliderHeightBasedOn":"real","focusUser":1,"focusEdge":"auto","breakpoints":[{"device":"tabletPortrait","type":"max-screen-width","portraitWidth":1199,"landscapeWidth":1199},{"device":"mobilePortrait","type":"max-screen-width","portraitWidth":700,"landscapeWidth":900}],"enabledDevices":{"desktopLandscape":0,"desktopPortrait":1,"tabletLandscape":0,"tabletPortrait":1,"mobileLandscape":0,"mobilePortrait":1},"sizes":{"desktopPortrait":{"width":1920,"height":800,"max":3000,"min":1200},"tabletPortrait":{"width":701,"height":292,"customHeight":false,"max":1199,"min":701},"mobilePortrait":{"width":320,"height":133,"customHeight":false,"max":900,"min":320}},"overflowHiddenPage":0,"focus":{"offsetTop":"#wpadminbar","offsetBottom":""}},"controls":{"mousewheel":0,"touch":"horizontal","keyboard":1,"blockCarouselInteraction":1},"playWhenVisible":1,"playWhenVisibleAt":0.5,"lazyLoad":0,"lazyLoadNeighbor":0,"blockrightclick":0,"maintainSession":0,"autoplay":{"enabled":1,"start":1,"duration":8000,"autoplayLoop":1,"allowReStart":0,"pause":{"click":1,"mouse":"0","mediaStarted":1},"resume":{"click":0,"mouse":"0","mediaEnded":1,"slidechanged":0},"interval":1,"intervalModifier":"loop","intervalSlide":"current"},"perspective":1500,"layerMode":{"playOnce":0,"playFirstLayer":1,"mode":"skippable","inAnimation":"mainInEnd"},"bgAnimations":{"global":[{"type":"Flat","tiles":{"crop":false,"delay":0,"sequence":"ForwardDiagonal"},"main":{"type":"both","duration":0.75,"current":{"ease":"easeOutCubic","scale":0.5,"opacity":0},"next":{"ease":"easeOutCubic","opacity":0,"scale":1.5}},"invert":{"current":{"scale":1.5},"next":{"scale":0.5}}}],"color":"RGBA(51,51,51,1)","speed":"normal"},"mainanimation":{"type":"horizontal","duration":800,"delay":0,"ease":"easeOutQuad","shiftedBackgroundAnimation":0},"carousel":1,"initCallbacks":function(){new _N2.SmartSliderWidgetArrowImage(this)}})})});</script></head>
-<body class="home page-template-default page page-id-686 custom-background et-tb-has-template ehf-template-Divi Pack/Divi ehf-stylesheet-Divi Pack/Divi et_color_scheme_orange et_pb_button_helper_class et_fullwidth_nav et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_expand et_header_style_left et_pb_footer_columns4 et_cover_background et_pb_gutter windows et_pb_gutters3 et_pb_pagebuilder_layout et_no_sidebar et_divi_theme et-db et_minified_js et_minified_css elementor-default elementor-kit-2856">
-	<div id="page-container">
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="home page-template page-template-elementor_header_footer page page-id-7 wp-custom-logo ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-4.7.3 ast-single-post ast-inherit-site-logo-transparent ast-hfb-header elementor-default elementor-template-full-width elementor-kit-6 elementor-page elementor-page-7">
 
-	
-	
-			<header id="main-header" data-height-onload="78">
-			<div class="container clearfix et_menu_container">
-							<div class="logo_container">
-					<span class="logo_helper"></span>
-					<a href="https://medikasuherman.ac.id/">
-						<img src="https://medikasuherman.ac.id/wp-content/uploads/2021/08/Logo-Web-2.png" alt="Universitas Medika Suherman" id="logo" data-height-percentage="51" />
-					</a>
-				</div>
-							<div id="et-top-navigation" data-height="78" data-fixed-height="67">
-											<nav id="top-menu-nav">
-						<ul id="top-menu" class="nav"><li id="menu-item-4434" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4434"><a href="https://medikasuherman.ac.id" aria-current="page">Penerimaan Mahasiswa Baru</a>
+<a
+	class="skip-link screen-reader-text"
+	href="#content"
+	role="link"
+	title="Skip to content">
+		Skip to content</a>
+
+<div
+class="hfeed site" id="page">
+			<header
+		class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-builder-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+			<div id="ast-desktop-header" data-toggle-type="dropdown">
+		<div class="ast-above-header-wrap  ">
+		<div class="ast-above-header-bar ast-above-header  site-header-focus-item" data-section="section-above-header-builder">
+						<div class="site-above-header-wrap ast-builder-grid-row-container site-header-focus-item ast-container" data-section="section-above-header-builder">
+				<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+											<div class="site-header-above-section-left site-header-section ast-flex site-header-section-left">
+									<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<span class="site-logo-img"><a href="https://sentrahki.medikasuherman.ac.id/" class="custom-logo-link" rel="home" aria-current="page"><img width="105" height="28" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/cropped-UMS_hki-105x28.png" class="custom-logo" alt="" decoding="async" srcset="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/cropped-UMS_hki-105x28.png 105w, https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/cropped-UMS_hki.png 216w" sizes="(max-width: 105px) 100vw, 105px" /></a></span><div class="ast-site-title-wrap">
+						<span class="site-title" itemprop="name">
+				<a href="https://sentrahki.medikasuherman.ac.id/" rel="home" itemprop="url" >
+					
+				</a>
+			</span>
+						
+				</div>				</div>
+			<!-- .site-branding -->
+					</div>
+								</div>
+																									<div class="site-header-above-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-menu-1 ast-builder-menu ast-flex ast-builder-menu-1-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-hb-menu-1">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation ast-flex-grow-1 navigation-accessibility site-header-focus-item" id="primary-site-navigation-desktop" aria-label="Site Navigation: Menu Utama" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation ast-inline-flex"><ul id="ast-hf-menu-1" class="main-header-menu ast-menu-shadow ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-7 current_page_item menu-item-33"><a href="https://sentrahki.medikasuherman.ac.id/" aria-current="page" class="menu-link">Beranda</a></li>
+<li id="menu-item-34" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34"><a aria-expanded="false" href="#" class="menu-link">Profil<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu Toggle</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
 <ul class="sub-menu">
-	<li id="menu-item-4436" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4436"><a href="https://medikasuherman.ac.id/penerimaan-mahasiswa-baru-imds-tahun-akademik-2021-2022/">Pendaftaran Mahasiswa Baru</a></li>
+	<li id="menu-item-191" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-191"><a href="https://sentrahki.medikasuherman.ac.id/profil/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Profil Sentra HKI</a></li>
+	<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a href="https://sentrahki.medikasuherman.ac.id/tim-sentra-hki/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Tim Sentra HKI</a></li>
 </ul>
 </li>
-<li id="menu-item-4381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-686 current_page_item current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-4381"><a href="https://medikasuherman.ac.id/" aria-current="page">Profil</a>
+<li id="menu-item-35" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-35"><a aria-expanded="false" href="#" class="menu-link">Layanan<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu Toggle</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
 <ul class="sub-menu">
-	<li id="menu-item-4385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4385"><a href="https://medikasuherman.ac.id/sejarah-kampus/">Sejarah Kampus</a></li>
-	<li id="menu-item-4517" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4517"><a href="https://medikasuherman.ac.id/visi-misi-tujuan-dan-sasaran/">Visi, Misi, Tujuan dan Strategi</a></li>
-	<li id="menu-item-4388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4388"><a href="https://medikasuherman.ac.id/struktur-organisasi/">Struktur Organisasi</a></li>
-	<li id="menu-item-5642" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5642"><a href="https://medikasuherman.ac.id/aspek-legal/">Aspek Legal</a></li>
-	<li id="menu-item-6401" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6401"><a href="https://medikasuherman.ac.id/hymne-universitas-medika-suherman/">Hymne UMS</a></li>
-	<li id="menu-item-6395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6395"><a href="https://medikasuherman.ac.id/mars-universitas-medika-suherman/">Mars UMS</a></li>
-	<li id="menu-item-5643" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-5643"><a href="https://medikasuherman.ac.id" aria-current="page">Akreditasi</a>
+	<li id="menu-item-82" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-82"><a aria-expanded="false" href="#" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Hak Cipta<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu Toggle</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
 	<ul class="sub-menu">
-		<li id="menu-item-5780" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5780"><a href="https://medikasuherman.ac.id/sertifikat-akreditasi/">Sertifikat Akreditasi</a></li>
+		<li id="menu-item-85" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-85"><a href="https://sentrahki.medikasuherman.ac.id/diagram-alir-pengajuan-hak-cipta/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Diagram Alir Pengajuan Hak Cipta</a></li>
+		<li id="menu-item-84" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-84"><a href="https://sentrahki.medikasuherman.ac.id/pencatatan-hak-cipta/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Pencatatan Hak Cipta</a></li>
+		<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="https://sentrahki.medikasuherman.ac.id/dokumen-kelengkapan/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Dokumen Kelengkapan</a></li>
 	</ul>
 </li>
-	<li id="menu-item-4387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4387"><a href="https://medikasuherman.ac.id/sarana-dan-prasarana/">Sarana dan Prasarana</a></li>
+	<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://sentrahki.medikasuherman.ac.id/paten/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Paten</a></li>
+	<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://sentrahki.medikasuherman.ac.id/desain-industri/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>Desain Industri</a></li>
 </ul>
 </li>
-<li id="menu-item-4399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4399"><a href="https://medikasuherman.ac.id/s1-administrasi-kesehatan/">Akademik</a>
+<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="https://sentrahki.medikasuherman.ac.id/daftar-sertifikat/" class="menu-link">Daftar Sertifikat</a></li>
+<li id="menu-item-37" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37"><a aria-expanded="false" href="#" class="menu-link">Daftar Ajuan<span role="application" class="dropdown-menu-toggle ast-header-navigation-arrow" tabindex="0" aria-expanded="false" aria-label="Menu Toggle" ><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></span></a><button class="ast-menu-toggle" aria-expanded="false"><span class="screen-reader-text">Menu Toggle</span><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span></button>
 <ul class="sub-menu">
-	<li id="menu-item-6745" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6745"><a href="https://medikasuherman.ac.id/fakultas-ilmu-kesehatan/">Fakultas Ilmu Kesehatan</a></li>
-	<li id="menu-item-12106" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12106"><a href="https://medikasuherman.ac.id/fakultas-ilmu-sosial-dan-teknologi-1/">Fakultas Ilmu Sosial dan Teknologi</a></li>
-	<li id="menu-item-11452" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11452"><a href="https://fkg.medikasuherman.ac.id">Fakultas Kedokteran Gigi</a></li>
-	<li id="menu-item-11372" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11372"><a href="https://ecampus.medikasuherman.ac.id">eCampus link1</a></li>
-	<li id="menu-item-12110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12110"><a href="https://imds.ecampus.id/">eCampus link 2</a></li>
+	<li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://sentrahki.medikasuherman.ac.id/hki-hak-cipta/" class="menu-link"><span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>HKI (hak cipta)</a></li>
 </ul>
 </li>
-<li id="menu-item-4430" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4430"><a href="https://medikasuherman.ac.id/lppm">LPPM</a></li>
-<li id="menu-item-5498" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5498"><a href="https://medikasuherman.ac.id/lpmi/">LPMI</a></li>
-<li id="menu-item-9756" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9756"><a href="https://rpl.medikasuherman.ac.id">RPL</a></li>
-<li id="menu-item-4437" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4437"><a href="https://medikasuherman.ac.id" aria-current="page">Kemahasiswaan dan Alumni</a>
-<ul class="sub-menu">
-	<li id="menu-item-4563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4563"><a href="https://medikasuherman.ac.id/info-beasiswa/">Info Beasiswa</a></li>
-	<li id="menu-item-4573" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4573"><a href="https://medikasuherman.ac.id/prestasi-mahasiswa/">Prestasi Mahasiswa</a></li>
-	<li id="menu-item-10654" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10654"><a href="https://www.instagram.com/umscareercenter/">Info Karir</a></li>
-	<li id="menu-item-6964" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-6964"><a href="#">BEM</a>
-	<ul class="sub-menu">
-		<li id="menu-item-6958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6958"><a href="https://medikasuherman.ac.id/bem/bem-universitas/">BEM Universitas</a></li>
-		<li id="menu-item-6974" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6974"><a href="https://medikasuherman.ac.id/bem-fakultas-ilmu-kesehatan/">BEM Fakultas Ilmu Kesehatan</a></li>
-		<li id="menu-item-6995" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6995"><a href="https://medikasuherman.ac.id/bem-fakultas-ilmu-sosial-dan-teknologi/">BEM Fakultas Ilmu Sosial dan Teknologi</a></li>
-	</ul>
-</li>
-	<li id="menu-item-4465" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-4465"><a href="https://medikasuherman.ac.id" aria-current="page">UKM</a>
-	<ul class="sub-menu">
-		<li id="menu-item-4466" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4466"><a href="https://medikasuherman.ac.id" aria-current="page">UKM Kerohanian</a>
-		<ul class="sub-menu">
-			<li id="menu-item-9088" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9088"><a href="https://medikasuherman.ac.id/ukm-kerohanian-budha/">UKM Kerohanian Budha</a></li>
-			<li id="menu-item-4477" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4477"><a href="https://medikasuherman.ac.id/ukm-rohani-islam/">UKM kerohanian Islam</a></li>
-			<li id="menu-item-4478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4478"><a href="https://medikasuherman.ac.id/ukm-rohani-kristiani/">UKM Kerohanian Kristiani</a></li>
-		</ul>
-</li>
-		<li id="menu-item-4473" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4473"><a href="https://medikasuherman.ac.id" aria-current="page">UKM Kesehatan &#038; Olahraga</a>
-		<ul class="sub-menu">
-			<li id="menu-item-4489" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4489"><a href="https://medikasuherman.ac.id/ukm-badminton/">UKM Badminton</a></li>
-			<li id="menu-item-4486" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4486"><a href="https://medikasuherman.ac.id/ukm-futsal/">UKM Futsal</a></li>
-			<li id="menu-item-4496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4496"><a href="https://medikasuherman.ac.id/ukm-medika-volunteer/">UKM Medika Volunteer</a></li>
-			<li id="menu-item-4484" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4484"><a href="https://medikasuherman.ac.id/ukm-pencak-silat/">UKM Pencak Silat</a></li>
-		</ul>
-</li>
-		<li id="menu-item-4474" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4474"><a href="https://medikasuherman.ac.id" aria-current="page">UKM Kesenian &#038; Budaya</a>
-		<ul class="sub-menu">
-			<li id="menu-item-4488" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4488"><a href="https://medikasuherman.ac.id/ukm-tari/">UKM Tari</a></li>
-			<li id="menu-item-10481" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10481"><a href="https://medikasuherman.ac.id/ukm-paduan-suara/">UKM Paduan Suara</a></li>
-		</ul>
-</li>
-		<li id="menu-item-4475" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4475"><a href="https://medikasuherman.ac.id" aria-current="page">UKM Komunikasi &#038; Informasi</a>
-		<ul class="sub-menu">
-			<li id="menu-item-4495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4495"><a href="https://medikasuherman.ac.id/ukm-media/">UKM Media</a></li>
-			<li id="menu-item-4493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4493"><a href="https://medikasuherman.ac.id/ukm-penelitian-dan-pengabdian-masyarakat/">UKM Penelitian dan Pengabdian Masyarakat</a></li>
-		</ul>
-</li>
-		<li id="menu-item-4476" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-has-children menu-item-4476"><a href="https://medikasuherman.ac.id" aria-current="page">UKM Ekonomi Kreatif</a>
-		<ul class="sub-menu">
-			<li id="menu-item-4491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4491"><a href="https://medikasuherman.ac.id/ukm-enterpreneur/">UKM Entrepreneur</a></li>
-		</ul>
-</li>
-	</ul>
-</li>
-	<li id="menu-item-4463" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4463"><a href="https://medikasuherman.ac.id/duta-kampus/">Duta Kampus</a></li>
-	<li id="menu-item-4435" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4435"><a href="http://alumni.medikasuherman.ac.id">Alumni</a></li>
-	<li id="menu-item-10123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10123"><a href="https://medikasuherman.ac.id/formulir/">Formulir</a></li>
-</ul>
-</li>
-<li id="menu-item-4383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4383"><a href="https://medikasuherman.ac.id/kontak-2/">Hubungi Kami</a>
-<ul class="sub-menu">
-	<li id="menu-item-5329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5329"><a href="https://medikasuherman.ac.id/kontak-2/">Kontak</a></li>
-	<li id="menu-item-4427" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4427"><a href="https://medikasuherman.ac.id/wp-admin">Login</a></li>
-</ul>
-</li>
-</ul>						</nav>
-					
-					
-					
-										<div id="et_top_search">
-						<span id="et_search_icon"></span>
+<li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://sentrahki.medikasuherman.ac.id/layanan/" class="menu-link">Unduhan</a></li>
+</ul></div></nav></div></div>		</div>
+									</div>
+												</div>
 					</div>
-					
-					<div id="et_mobile_nav_menu">
-				<div class="mobile_nav closed">
-					<span class="select_page">Pilih Laman</span>
-					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
-				</div>
-			</div>				</div> <!-- #et-top-navigation -->
-			</div> <!-- .container -->
-			<div class="et_search_outer">
-				<div class="container et_search_form_container">
-					<form role="search" method="get" class="et-search-form" action="https://medikasuherman.ac.id/">
-					<input type="search" class="et-search-field" placeholder="Cari &hellip;" value="" name="s" title="Mencari:" />					</form>
-					<span class="et_close_search_field"></span>
-				</div>
+								</div>
 			</div>
-		</header> <!-- #main-header -->
-			<div id="et-main-area">
-	
-<div id="main-content">
-
-
-			
-				<article id="post-686" class="post-686 page type-page status-publish hentry">
-
-				
-					<div class="entry-content">
-					<div id="et-boc" class="et-boc">
-			
-		<div class="et-l et-l--post">
-			<div class="et_builder_inner_content et_pb_gutters3">
-		<div class="et_pb_section et_pb_section_0 et_animated et_pb_section_parallax et_pb_with_background et_section_regular" >
-				
-				<div class="et_parallax_bg_wrap"><div
-						class="et_parallax_bg"
-						style="background-image: url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Gedung-UMS-1-scaled.jpg);"
-					></div></div>
-				
-				
-					<div class="et_pb_row et_pb_row_0">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_nextend_smart_slider_3 et_pb_nextend_smart_slider_3_0">
-				
-				
-				
-				
-				<div class="et_pb_module_inner">
-					<div><ss3-force-full-width data-overflow-x="body" data-horizontal-selector="body"><div class="n2-section-smartslider fitvidsignore  n2_clear" data-ssid="2" tabindex="0" role="region" aria-label="Slider"><div id="n2-ss-2-align" class="n2-ss-align"><div class="n2-padding"><div id="n2-ss-2" data-creator="Smart Slider 3" data-responsive="fullwidth" class="n2-ss-slider n2-ow n2-has-hover n2notransition  "><div class="n2-ss-slider-wrapper-inside">
-        <div class="n2-ss-slider-1 n2_ss__touch_element n2-ow" style="">
-            <div class="n2-ss-slider-2 n2-ow">
-                                                    <div class="n2-ss-background-animation n2-ow"></div>
-                                <div class="n2-ss-slider-3 n2-ow" style="">
-
-                    <div class="n2-ss-slide-backgrounds n2-ow-all"><div class="n2-ss-slide-background" data-public-id="1" data-mode="fit"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//medikasuherman.ac.id/wp-content/uploads/slider/cache/2175772bd1add03abc15496464522851/uNIVERSITAS-mEDIKA-SUHERMAN-8-scaled.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="2" data-mode="fit"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//medikasuherman.ac.id/wp-content/uploads/slider/cache/ce8977e9040b455993f16c364d5d38d7/uNIVERSITAS-mEDIKA-SUHERMAN-1-scaled.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="3" data-mode="fit"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//medikasuherman.ac.id/wp-content/uploads/slider/cache/e656aa7c63bd73c417145255228c28f2/uNIVERSITAS-mEDIKA-SUHERMAN-2-scaled.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div><div class="n2-ss-slide-background" data-public-id="4" data-mode="fit"><div class="n2-ss-slide-background-image" data-blur="0" data-opacity="100" data-x="50" data-y="50" data-alt="" data-title=""><picture class="skip-lazy" data-skip-lazy="1"><img decoding="async" src="//medikasuherman.ac.id/wp-content/uploads/slider/cache/3404ea0382b6e87b30ef3a28d51cef26/uNIVERSITAS-mEDIKA-SUHERMAN-5-scaled.jpg" alt="" title="" loading="lazy" class="skip-lazy" data-skip-lazy="1"></picture></div><div data-color="RGBA(255,255,255,0)" style="background-color: RGBA(255,255,255,0);" class="n2-ss-slide-background-color"></div></div></div>                    <div class="n2-ss-slider-4 n2-ow">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 800" data-related-device="desktopPortrait" class="n2-ow n2-ss-preserve-size n2-ss-preserve-size--slider n2-ss-slide-limiter"></svg><div data-first="1" data-slide-duration="0" data-id="41" data-slide-public-id="1" data-title="uNIVERSITAS mEDIKA SUHERMAN (8)" class="n2-ss-slide n2-ow  n2-ss-slide-41"><div role="note" class="n2-ss-slide--focus" tabindex="-1">uNIVERSITAS mEDIKA SUHERMAN (8)</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-oNP3DQJPDDVQ" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="42" data-slide-public-id="2" data-title="uNIVERSITAS mEDIKA SUHERMAN (1)" class="n2-ss-slide n2-ow  n2-ss-slide-42"><div role="note" class="n2-ss-slide--focus" tabindex="-1">uNIVERSITAS mEDIKA SUHERMAN (1)</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-hAXjEoohR3c5" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="43" data-slide-public-id="3" data-title="uNIVERSITAS mEDIKA SUHERMAN (2)" class="n2-ss-slide n2-ow  n2-ss-slide-43"><div role="note" class="n2-ss-slide--focus" tabindex="-1">uNIVERSITAS mEDIKA SUHERMAN (2)</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-FW5Qp02EheqU" data-sstype="slide" data-pm="default"></div></div></div><div data-slide-duration="0" data-id="44" data-slide-public-id="4" data-title="uNIVERSITAS mEDIKA SUHERMAN (5)" class="n2-ss-slide n2-ow  n2-ss-slide-44"><div role="note" class="n2-ss-slide--focus" tabindex="-1">uNIVERSITAS mEDIKA SUHERMAN (5)</div><div class="n2-ss-layers-container n2-ss-slide-limiter n2-ow"><div class="n2-ss-layer n2-ow n-uc-OcQvZiMouC0p" data-sstype="slide" data-pm="default"></div></div></div>                    </div>
-
-                                    </div>
-            </div>
-        </div>
-        <div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-left-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-previous  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-previous" role="button" aria-label="previous arrow" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMS40MzMgMTUuOTkyTDIyLjY5IDUuNzEyYy4zOTMtLjM5LjM5My0xLjAzIDAtMS40Mi0uMzkzLS4zOS0xLjAzLS4zOS0xLjQyMyAwbC0xMS45OCAxMC45NGMtLjIxLjIxLS4zLjQ5LS4yODUuNzYtLjAxNS4yOC4wNzUuNTYuMjg0Ljc3bDExLjk4IDEwLjk0Yy4zOTMuMzkgMS4wMy4zOSAxLjQyNCAwIC4zOTMtLjQuMzkzLTEuMDMgMC0xLjQybC0xMS4yNTctMTAuMjkiCiAgICAgICAgICBmaWxsPSIjZmZmZmZmIiBvcGFjaXR5PSIwLjgiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPgo8L3N2Zz4=" alt="previous arrow"></div></div><div class="n2-ss-slider-controls n2-ss-slider-controls-absolute-right-center"><div style="--widget-offset:15px;" class="n2-ss-widget nextend-arrow n2-ow-all nextend-arrow-next  nextend-arrow-animated-fade" data-hide-mobileportrait="1" id="n2-ss-2-arrow-next" role="button" aria-label="next arrow" tabindex="0"><img decoding="async" width="32" height="32" class="skip-lazy" data-skip-lazy="1" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgIDxwYXRoIGQ9Ik0xMC43MjIgNC4yOTNjLS4zOTQtLjM5LTEuMDMyLS4zOS0xLjQyNyAwLS4zOTMuMzktLjM5MyAxLjAzIDAgMS40MmwxMS4yODMgMTAuMjgtMTEuMjgzIDEwLjI5Yy0uMzkzLjM5LS4zOTMgMS4wMiAwIDEuNDIuMzk1LjM5IDEuMDMzLjM5IDEuNDI3IDBsMTIuMDA3LTEwLjk0Yy4yMS0uMjEuMy0uNDkuMjg0LS43Ny4wMTQtLjI3LS4wNzYtLjU1LS4yODYtLjc2TDEwLjcyIDQuMjkzeiIKICAgICAgICAgIGZpbGw9IiNmZmZmZmYiIG9wYWNpdHk9IjAuOCIgZmlsbC1ydWxlPSJldmVub2RkIi8+Cjwvc3ZnPg==" alt="next arrow"></div></div></div></div><ss3-loader></ss3-loader></div></div><div class="n2_clear"></div></div></ss3-force-full-width></div>
-				</div>
-			</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_1 et_animated et_pb_with_background et_section_regular" >
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_1">
-				<div class="et_pb_column et_pb_column_1_3 et_pb_column_1  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
-				
-				
-				
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty">
-				
-				
-				
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty">
-				
-				
-				
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_2 et_section_regular" >
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_2">
-				<div class="et_pb_column et_pb_column_3_4 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_0 et_clickable  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><p><strong>Berita</strong></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_blog_0 et_pb_blog_grid_wrapper">
-					<div class="et_pb_blog_grid clearfix  et_pb_text_align_left">
+	</div> <!-- Main Header Bar Wrap -->
+<div id="ast-mobile-header" class="ast-mobile-header-wrap " data-type="dropdown">
+		<div class="ast-main-header-wrap main-header-bar-wrap" >
+		<div class="ast-primary-header-bar ast-primary-header main-header-bar site-primary-header-wrap site-header-focus-item ast-builder-grid-row-layout-default ast-builder-grid-row-tablet-layout-default ast-builder-grid-row-mobile-layout-default" data-section="section-primary-header-builder">
+									<div class="ast-builder-grid-row ast-builder-grid-row-has-sides ast-builder-grid-row-no-center">
+													<div class="site-header-primary-section-left site-header-section ast-flex site-header-section-left">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="title_tagline">
+											<div
+				class="site-branding ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"				>
+					<span class="site-logo-img"><a href="https://sentrahki.medikasuherman.ac.id/" class="custom-logo-link" rel="home" aria-current="page"><img width="105" height="28" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/cropped-UMS_hki-105x28.png" class="custom-logo" alt="" decoding="async" srcset="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/cropped-UMS_hki-105x28.png 105w, https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/cropped-UMS_hki.png 216w" sizes="(max-width: 105px) 100vw, 105px" /></a></span><div class="ast-site-title-wrap">
+						<span class="site-title" itemprop="name">
+				<a href="https://sentrahki.medikasuherman.ac.id/" rel="home" itemprop="url" >
 					
-					
-					<div class="et_pb_ajax_pagination_container">
-						<div class="et_pb_salvattore_content" data-columns>
-			<article id="post-12200" class="et_pb_post clearfix et_pb_blog_item_0_0 post-12200 post type-post status-publish format-standard hentry category-berita category-prestasi-mahasiswa">
-
-			<div class="et_pb_image_container"><a href="https://medikasuherman.ac.id/blog/2024/11/23/mahasiswi-program-studi-sarjana-kebidanan-raih-mendali-perak-dalam-kompetisi-sains-nusantara-kosinus-2024/" class="entry-featured-image-url"><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-5-1392320_400x250.png" alt="Mahasiswi Program Studi Sarjana Kebidanan Raih Mendali Perak dalam Kompetisi Sains Nusantara (KOSINUS) 2024" class="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-5.png 479w, https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-5-1392320_400x250.png 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></a></div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/11/23/mahasiswi-program-studi-sarjana-kebidanan-raih-mendali-perak-dalam-kompetisi-sains-nusantara-kosinus-2024/">Mahasiswi Program Studi Sarjana Kebidanan Raih Mendali Perak dalam Kompetisi Sains Nusantara (KOSINUS) 2024</a></h2>
-				
-				<p class="post-meta"><span class="published">23 Nov 2024</span></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>Selamat dan Sukses kepada Lailatul Rochmah...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-12191" class="et_pb_post clearfix et_pb_blog_item_0_1 post-12191 post type-post status-publish format-standard hentry category-berita category-prestasi-mahasiswa">
-
-			<div class="et_pb_image_container"><a href="https://medikasuherman.ac.id/blog/2024/11/23/mahasiswi-program-studi-sarjana-kebidanan-raih-mendali-emas-dalam-kompetisi-sains-nusantara-kosinus-2024/" class="entry-featured-image-url"><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-6-1391496_400x250.png" alt="Mahasiswi Program Studi Sarjana Kebidanan Raih Mendali Emas dalam Kompetisi Sains Nusantara (KOSINUS) 2024" class="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-6.png 479w, https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-6-1391496_400x250.png 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></a></div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/11/23/mahasiswi-program-studi-sarjana-kebidanan-raih-mendali-emas-dalam-kompetisi-sains-nusantara-kosinus-2024/">Mahasiswi Program Studi Sarjana Kebidanan Raih Mendali Emas dalam Kompetisi Sains Nusantara (KOSINUS) 2024</a></h2>
-				
-				<p class="post-meta"><span class="published">23 Nov 2024</span></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>Selamat dan Sukses kepada Lailatul Rochmah...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-12178" class="et_pb_post clearfix et_pb_blog_item_0_2 post-12178 post type-post status-publish format-standard hentry category-berita category-materi">
-
-			<div class="et_pb_image_container"><a href="https://medikasuherman.ac.id/blog/2024/11/20/universitas-medika-suherman-ums-bersama-mgbk-kabupaten-bogor-menyelenggarakan-seminar-kurikulum-mindfulness-dan-relaksasi-harmoni-selaras-untuk-menggapai-prestasi-maksimal/" class="entry-featured-image-url"><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-1-min-434009_400x250.png" alt="Universitas Medika Suherman (UMS) bersama MGBK Kabupaten Bogor Menyelenggarakan Seminar &#8220;Kurikulum Mindfulness dan Relaksasi: Harmoni &amp; Selaras untuk Menggapai Prestasi Maksimal&#8221;" class="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-1-min.png 479w, https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-1-min-434009_400x250.png 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></a></div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/11/20/universitas-medika-suherman-ums-bersama-mgbk-kabupaten-bogor-menyelenggarakan-seminar-kurikulum-mindfulness-dan-relaksasi-harmoni-selaras-untuk-menggapai-prestasi-maksimal/">Universitas Medika Suherman (UMS) bersama MGBK Kabupaten Bogor Menyelenggarakan Seminar &#8220;Kurikulum Mindfulness dan Relaksasi: Harmoni &amp; Selaras untuk Menggapai Prestasi Maksimal&#8221;</a></h2>
-				
-				<p class="post-meta"><span class="published">20 Nov 2024</span></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>Pada hari Rabu, 13 November 2024, Universitas...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-12169" class="et_pb_post clearfix et_pb_blog_item_0_3 post-12169 post type-post status-publish format-standard hentry category-berita category-prestasi-mahasiswa">
-
-			<div class="et_pb_image_container"><a href="https://medikasuherman.ac.id/blog/2024/11/18/mahasiswa-program-studi-sarjana-farmasi-universitas-medika-suherman-lolos-dalam-kegiatan-penelitian-pangan-fungsional-berbasis-potensi-dan-kearifan-lokal/" class="entry-featured-image-url"><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-1417796_400x250.png" alt="Mahasiswa Program Studi Sarjana Farmasi Universitas Medika Suherman Lolos dalam Kegiatan Penelitian Pangan Fungsional Berbasis Potensi dan Kearifan Lokal" class="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26.png 479w, https://medikasuherman.ac.id/wp-content/uploads/2024/11/UMS-25-26-1417796_400x250.png 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></a></div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/11/18/mahasiswa-program-studi-sarjana-farmasi-universitas-medika-suherman-lolos-dalam-kegiatan-penelitian-pangan-fungsional-berbasis-potensi-dan-kearifan-lokal/">Mahasiswa Program Studi Sarjana Farmasi Universitas Medika Suherman Lolos dalam Kegiatan Penelitian Pangan Fungsional Berbasis Potensi dan Kearifan Lokal</a></h2>
-				
-				<p class="post-meta"><span class="published">18 Nov 2024</span></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>Selamat dan Sukses kepada Sindi Suryamin...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-12153" class="et_pb_post clearfix et_pb_blog_item_0_4 post-12153 post type-post status-publish format-standard hentry category-berita category-prestasi-mahasiswa">
-
-			<div class="et_pb_image_container"><a href="https://medikasuherman.ac.id/blog/2024/11/12/lulus-ukom-pendidikan-profesi-bidan-90-kompeten-ta-2023-2024/" class="entry-featured-image-url"><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2024/11/132-1486751_400x250.png" alt="Lulus UKOM Pendidikan Profesi Bidan 90% Kompeten TA. 2023-2024" class="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2024/11/132.png 479w, https://medikasuherman.ac.id/wp-content/uploads/2024/11/132-1486751_400x250.png 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></a></div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/11/12/lulus-ukom-pendidikan-profesi-bidan-90-kompeten-ta-2023-2024/">Lulus UKOM Pendidikan Profesi Bidan 90% Kompeten TA. 2023-2024</a></h2>
-				
-				<p class="post-meta"><span class="published">12 Nov 2024</span></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>&nbsp; Selamat kepada Program Studi Pendidikan...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-12142" class="et_pb_post clearfix et_pb_blog_item_0_5 post-12142 post type-post status-publish format-standard hentry category-berita">
-
-			<div class="et_pb_image_container"><a href="https://medikasuherman.ac.id/blog/2024/11/11/program-studi-pendidikan-profesi-ners-universitas-medika-suherman-lulus-ukom-9523-kompeten/" class="entry-featured-image-url"><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2024/11/135-1492473_400x250.png" alt="Program Studi Pendidikan Profesi Ners Universitas Medika Suherman Lulus UKOM 95,23% Kompeten" class="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2024/11/135.png 479w, https://medikasuherman.ac.id/wp-content/uploads/2024/11/135-1492473_400x250.png 480w " sizes="(max-width:479px) 479px, 100vw "  width='400' height='250' /></a></div> <!-- .et_pb_image_container -->
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/11/11/program-studi-pendidikan-profesi-ners-universitas-medika-suherman-lulus-ukom-9523-kompeten/">Program Studi Pendidikan Profesi Ners Universitas Medika Suherman Lulus UKOM 95,23% Kompeten</a></h2>
-				
-				<p class="post-meta"><span class="published">11 Nov 2024</span></p><div class="post-content"><div class="post-content-inner et_multi_view_hidden"><p>&nbsp; Selamat kepada Program Studi Pendidikan...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			</div><!-- .et_pb_salvattore_content --><div><div class="pagination clearfix">
-	<div class="alignleft"><a href="https://medikasuherman.ac.id/page/2/?et_blog" >&laquo; Entri Terdahulu</a></div>
-	<div class="alignright"></div>
-</div></div></div> <!-- .et_pb_posts -->
+				</a>
+			</span>
+						
+				</div>				</div>
+			<!-- .site-branding -->
 					</div>
-					 
-				</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_4 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_0 et_animated et-waypoint">
-				
-				
-				<a href="http://pmb.medikasuherman.ac.id/" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-PMB.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-PMB.png 1458w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-PMB-1280x437.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-PMB-980x335.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-PMB-480x164.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1458px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_1 et_animated et-waypoint">
-				
-				
-				<a href="https://medikasuherman.ac.id/lpmi" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/08/Logo-LPMI.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/08/Logo-LPMI.png 1458w, https://medikasuherman.ac.id/wp-content/uploads/2021/08/Logo-LPMI-1280x437.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/08/Logo-LPMI-980x335.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/08/Logo-LPMI-480x164.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1458px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_2 et_animated et-waypoint">
-				
-				
-				<a href="http://ecampus.medikasuherman.ac.id" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Ecampus-1.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Ecampus-1.png 1458w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Ecampus-1-1280x437.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Ecampus-1-980x335.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Ecampus-1-480x164.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1458px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_3 et_animated et-waypoint">
-				
-				
-				<a href="http://sister.medikasuherman.ac.id:8081/auth/login" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Sister-1.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Sister-1.png 1458w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Sister-1-1280x437.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Sister-1-980x335.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Logo-Sister-1-480x164.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1458px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_4 et_animated et-waypoint">
-				
-				
-				<a href="http://jurnal.medikasuherman.ac.id" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Jurnal-UMS.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/07/Jurnal-UMS.png 1458w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Jurnal-UMS-1280x437.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Jurnal-UMS-980x335.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/07/Jurnal-UMS-480x164.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1458px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_5 et_animated et-waypoint">
-				
-				
-				<a href="https://repository.medikasuherman.ac.id/xmlui/" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/09/Logo-Repository.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/09/Logo-Repository.png 1458w, https://medikasuherman.ac.id/wp-content/uploads/2021/09/Logo-Repository-1280x437.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/09/Logo-Repository-980x335.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/09/Logo-Repository-480x164.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1458px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_6 et_animated et-waypoint">
-				
-				
-				<a href="https://www.lldikti4.or.id/" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/08/Dikti.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/08/Dikti.png 2553w, https://medikasuherman.ac.id/wp-content/uploads/2021/08/Dikti-1280x555.png 1280w, https://medikasuherman.ac.id/wp-content/uploads/2021/08/Dikti-980x425.png 980w, https://medikasuherman.ac.id/wp-content/uploads/2021/08/Dikti-480x208.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 2553px, 100vw" /></span></a>
+									</div>
+																									<div class="site-header-primary-section-right site-header-section ast-flex ast-grid-right-section">
+										<div class="ast-builder-layout-element ast-flex site-header-focus-item" data-section="section-header-mobile-trigger">
+						<div class="ast-button-wrap">
+				<button type="button" class="menu-toggle main-header-menu-toggle ast-mobile-menu-trigger-minimal"   aria-expanded="false">
+					<span class="screen-reader-text">Main Menu</span>
+					<span class="mobile-menu-toggle-icon">
+						<span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-menu-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M3 13h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 7h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1zM3 19h18c0.552 0 1-0.448 1-1s-0.448-1-1-1h-18c-0.552 0-1 0.448-1 1s0.448 1 1 1z'></path></svg></span><span class="ahfb-svg-iconset ast-inline-flex svg-baseline"><svg class='ast-mobile-svg ast-close-svg' fill='currentColor' version='1.1' xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'><path d='M5.293 6.707l5.293 5.293-5.293 5.293c-0.391 0.391-0.391 1.024 0 1.414s1.024 0.391 1.414 0l5.293-5.293 5.293 5.293c0.391 0.391 1.024 0.391 1.414 0s0.391-1.024 0-1.414l-5.293-5.293 5.293-5.293c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z'></path></svg></span>					</span>
+									</button>
 			</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_3">
-				<div class="et_pb_column et_pb_column_3_5 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><p><strong>Info Karir</strong></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_blog_1 et_pb_blog_grid_wrapper">
-					<div class="et_pb_blog_grid clearfix ">
-					
-					
-					<div class="et_pb_ajax_pagination_container">
-						<div class="et_pb_salvattore_content" data-columns>
-			<article id="post-11669" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_1_0 post-11669 post type-post status-publish format-standard hentry category-berita category-loker">
-
-			
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/07/13/medika-suherman-career-center-mscc-sukses-menggelar-job-fair-pada-4-juli-2024/">Medika Suherman Career Center (MSCC) Sukses Menggelar Job Fair Pada 4 Juli 2024</a></h2>
-				
-				<p class="post-meta">oleh <span class="author vcard"><a href="https://medikasuherman.ac.id/blog/author/marketing/" title="Postingan oleh Humas" rel="author">Humas</a></span> | <span class="published">Jul 13, 2024</span> | <a href="https://medikasuherman.ac.id/blog/category/berita/" rel="tag">Berita</a>, <a href="https://medikasuherman.ac.id/blog/category/loker/" rel="tag">Loker</a></p><div class="post-content"><div class="post-content-inner"><p>Bekasi, 04 Juli 2024 – Medika Suherman Career...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-11601" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_1_1 post-11601 post type-post status-publish format-standard hentry category-berita category-loker">
-
-			
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2024/07/03/job-fair-daring-di-universitas-medika-suherman-digelar-4-juli-2024-banyak-perusahaan-buka-lowongan-pekerjaan/">Job Fair Daring Di Universitas Medika Suherman Digelar 4 Juli 2024, Banyak Perusahaan Buka Lowongan Pekerjaan</a></h2>
-				
-				<p class="post-meta">oleh <span class="author vcard"><a href="https://medikasuherman.ac.id/blog/author/marketing/" title="Postingan oleh Humas" rel="author">Humas</a></span> | <span class="published">Jul 3, 2024</span> | <a href="https://medikasuherman.ac.id/blog/category/berita/" rel="tag">Berita</a>, <a href="https://medikasuherman.ac.id/blog/category/loker/" rel="tag">Loker</a></p><div class="post-content"><div class="post-content-inner"><p>✨ Medika Suherman Career Center (MSCC) ✨ Proudly...</p>
-</div></div>			
-			</article> <!-- .et_pb_post -->
-			
-			<article id="post-9200" class="et_pb_post clearfix et_pb_no_thumb et_pb_blog_item_1_2 post-9200 post type-post status-publish format-standard hentry category-berita category-loker">
-
-			
-												<h2 class="entry-title"><a href="https://medikasuherman.ac.id/blog/2023/03/02/rekrutmen-dosen-program-studi-sarjana-fakultas-kedokteran-gigi-fkg-universitas-medika-suherman/">REKRUTMEN Dosen Program Studi Sarjana Kedokteran Gigi Fakultas Kedokteran Gigi (FKG) UNIVERSITAS MEDIKA SUHERMAN</a></h2>
-				
-				<p class="post-meta">oleh <span class="author vcard"><a href="https://medikasuherman.ac.id/blog/author/imds/" title="Postingan oleh ums" rel="author">ums</a></span> | <span class="published">Mar 2, 2023</span> | <a href="https://medikasuherman.ac.id/blog/category/berita/" rel="tag">Berita</a>, <a href="https://medikasuherman.ac.id/blog/category/loker/" rel="tag">Loker</a></p><div class="post-content"><div class="post-content-inner"></div></div>			
-			</article> <!-- .et_pb_post -->
-			</div><!-- .et_pb_salvattore_content --><div><div class="pagination clearfix">
-	<div class="alignleft"><a href="https://medikasuherman.ac.id/page/2/?et_blog" >&laquo; Entri Terdahulu</a></div>
-	<div class="alignright"></div>
-</div></div></div> <!-- .et_pb_posts -->
 					</div>
-					 
-				</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_2_5 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_2  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><p><b>Galery</b></p></div>
-			</div> <!-- .et_pb_text --><div class="et_pb_module et_pb_video_slider et_pb_video_slider_0">
-				
-				
-				<div class="et_pb_slider et_pb_preload et_pb_slider_carousel et_pb_slider_no_pagination et_pb_controls_">
-					<div class="et_pb_slides">
-						<div class="et_pb_video_slider_item_0 et_pb_slide et_pb_bg_layout_dark" data-image="//i.ytimg.com/vi/QdhWPC2ZfBw/hqdefault.jpg">
-				<div class="et_pb_video_wrap"><div class="et_pb_video_box"><iframe loading="lazy" title="Mars Universitas Medika Suherman | Mars UMS" width="1080" height="608" src="https://www.youtube.com/embed/QdhWPC2ZfBw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div style="background-image:url(//i.ytimg.com/vi/QdhWPC2ZfBw/hqdefault.jpg)" class="et_pb_video_overlay et_multi_view_hidden"><div class="et_pb_video_overlay_hover"><a href="#" class="et_pb_video_play"></a></div></div></div>
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_video_slider_item_1 et_pb_slide et_pb_bg_layout_dark" data-image="//i.ytimg.com/vi/-q2-J2qfIik/hqdefault.jpg">
-				<div class="et_pb_video_wrap"><div class="et_pb_video_box"><iframe loading="lazy" title="Pemberian Terapi Oksigen Sesuai SOP I Nursing Skill Laboratory" width="1080" height="608" src="https://www.youtube.com/embed/-q2-J2qfIik?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div style="background-image:url(//i.ytimg.com/vi/-q2-J2qfIik/hqdefault.jpg)" class="et_pb_video_overlay et_multi_view_hidden"><div class="et_pb_video_overlay_hover"><a href="#" class="et_pb_video_play"></a></div></div></div>
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_video_slider_item_2 et_pb_slide et_pb_bg_layout_dark" data-image="//i.ytimg.com/vi/Iao-PyJ_BKU/hqdefault.jpg">
-				<div class="et_pb_video_wrap"><div class="et_pb_video_box"><iframe loading="lazy" title="Profil Universitas Medika Suherman" width="1080" height="608" src="https://www.youtube.com/embed/Iao-PyJ_BKU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div style="background-image:url(//i.ytimg.com/vi/Iao-PyJ_BKU/hqdefault.jpg)" class="et_pb_video_overlay et_multi_view_hidden"><div class="et_pb_video_overlay_hover"><a href="#" class="et_pb_video_play"></a></div></div></div>
-			</div> <!-- .et_pb_slide -->
-			<div class="et_pb_video_slider_item_3 et_pb_slide et_pb_bg_layout_dark" data-image="//i.ytimg.com/vi/bJWXym9YIf0/hqdefault.jpg">
-				<div class="et_pb_video_wrap"><div class="et_pb_video_box"><iframe loading="lazy" title="Wisuda Online TA 2019-2020 Institut Medika Drg. Suherman" width="1080" height="608" src="https://www.youtube.com/embed/bJWXym9YIf0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div style="background-image:url(//i.ytimg.com/vi/bJWXym9YIf0/hqdefault.jpg)" class="et_pb_video_overlay et_multi_view_hidden"><div class="et_pb_video_overlay_hover"><a href="#" class="et_pb_video_play"></a></div></div></div>
-			</div> <!-- .et_pb_slide -->
-			
-					</div> <!-- .et_pb_slides -->
-				</div> <!-- .et_pb_slider -->
-			</div> <!-- .et_pb_video_slider -->
-			
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_3 et_animated et_pb_with_background et_section_regular" >
-				
-				
-				
-				
-					
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_4 et_pb_with_background et_section_regular" >
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_4 et_pb_gutters2">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_8 et_clickable  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light">
-				
-				
-				<div class="et_pb_text_inner"><p><strong>Sosial Media</strong></p></div>
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_5 et_pb_gutters2">
-				<div class="et_pb_column et_pb_column_1_3 et_pb_column_9 et_clickable  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_code et_pb_code_0 et_animated et_clickable">
-				
-				
-				<div class="et_pb_code_inner">
-<div id="sb_instagram" class="sbi sbi_col_2  sbi_width_resp sbi_fixed_height" style="padding-bottom: 4px;background-color: rgb(135,163,191);width: 100%;height: 400px;" data-feedid="sbi_17841404174752424#4" data-res="auto" data-cols="2" data-num="4" data-shortcode-atts="{}"  data-postid="686" data-locatornonce="371cac678a">
-	
-	<div id="sbi_images" style="padding: 2px;">
-			</div>
-
-	<div id="sbi_load">
-
-	
-	    <span class="sbi_follow_btn">
-        <a href="https://www.instagram.com/17841404174752424/" target="_blank" rel="noopener nofollow"><svg class="svg-inline--fa fa-instagram fa-w-14" aria-hidden="true" data-fa-processed="" aria-label="Instagram" data-prefix="fab" data-icon="instagram" role="img" viewBox="0 0 448 512">
-	                <path fill="currentColor" d="M224.1 141c-63.6 0-114.9 51.3-114.9 114.9s51.3 114.9 114.9 114.9S339 319.5 339 255.9 287.7 141 224.1 141zm0 189.6c-41.1 0-74.7-33.5-74.7-74.7s33.5-74.7 74.7-74.7 74.7 33.5 74.7 74.7-33.6 74.7-74.7 74.7zm146.4-194.3c0 14.9-12 26.8-26.8 26.8-14.9 0-26.8-12-26.8-26.8s12-26.8 26.8-26.8 26.8 12 26.8 26.8zm76.1 27.2c-1.7-35.9-9.9-67.7-36.2-93.9-26.2-26.2-58-34.4-93.9-36.2-37-2.1-147.9-2.1-184.9 0-35.8 1.7-67.6 9.9-93.9 36.1s-34.4 58-36.2 93.9c-2.1 37-2.1 147.9 0 184.9 1.7 35.9 9.9 67.7 36.2 93.9s58 34.4 93.9 36.2c37 2.1 147.9 2.1 184.9 0 35.9-1.7 67.7-9.9 93.9-36.2 26.2-26.2 34.4-58 36.2-93.9 2.1-37 2.1-147.8 0-184.8zM398.8 388c-7.8 19.6-22.9 34.7-42.6 42.6-29.5 11.7-99.5 9-132.1 9s-102.7 2.6-132.1-9c-19.6-7.8-34.7-22.9-42.6-42.6-11.7-29.5-9-99.5-9-132.1s-2.6-102.7 9-132.1c7.8-19.6 22.9-34.7 42.6-42.6 29.5-11.7 99.5-9 132.1-9s102.7-2.6 132.1 9c19.6 7.8 34.7 22.9 42.6 42.6 11.7 29.5 9 99.5 9 132.1s2.7 102.7-9 132.1z"></path>
-	            </svg>Follow on Instagram</a>
-    </span>
-	
-</div>
-
-		<span class="sbi_resized_image_data" data-feed-id="sbi_17841404174752424#4" data-resized="[]">
-	</span>
+									</div>
+											</div>
+						</div>
 	</div>
+				<div class="ast-mobile-header-content content-align-flex-start ">
+						<div class="ast-builder-menu-mobile ast-builder-menu ast-builder-menu-mobile-focus-item ast-builder-layout-element site-header-focus-item" data-section="section-header-mobile-menu">
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="site-navigation" id="ast-mobile-site-navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope" class="site-navigation ast-flex-grow-1 navigation-accessibility" aria-label="Site Navigation"><div id="ast-hf-mobile-menu" class="main-navigation"><ul class="main-header-menu ast-nav-menu ast-flex  submenu-with-border astra-menu-animation-fade  stack-on-mobile"><li class="page_item page-item-7 current-menu-item menu-item current-menu-item"><a href="https://sentrahki.medikasuherman.ac.id/" class="menu-link">Beranda</a></li><li class="page_item page-item-24 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/daftar-sertifikat/" class="menu-link">Daftar Sertifikat</a></li><li class="page_item page-item-22 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/desain-industri/" class="menu-link">Desain Industri</a></li><li class="page_item page-item-76 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/diagram-alir-pengajuan-hak-cipta/" class="menu-link">Diagram Alir Pengajuan Hak Cipta</a></li><li class="page_item page-item-80 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/dokumen-kelengkapan/" class="menu-link">Dokumen Kelengkapan</a></li><li class="page_item page-item-18 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/hak-cipta/" class="menu-link">Hak Cipta</a></li><li class="page_item page-item-38 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/hki-hak-cipta/" class="menu-link">HKI (hak cipta)</a></li><li class="page_item page-item-20 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/paten/" class="menu-link">Paten</a></li><li class="page_item page-item-78 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/pencatatan-hak-cipta/" class="menu-link">Pencatatan Hak Cipta</a></li><li class="page_item page-item-9 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/profil/" class="menu-link">Profil Sentra HKI</a></li><li class="page_item page-item-16 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/tim-sentra-hki/" class="menu-link">Tim Sentra HKI</a></li><li class="page_item page-item-13 menu-item"><a href="https://sentrahki.medikasuherman.ac.id/layanan/" class="menu-link">Unduhan</a></li></ul></div></nav></div></div>		</div>
+					</div>
+			</div>
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+				<div data-elementor-type="wp-page" data-elementor-id="7" class="elementor elementor-7">
+						<section class="elementor-section elementor-top-section elementor-element elementor-element-17092f1c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="17092f1c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;shape_divider_top&quot;:&quot;mountains&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" opacity="0.33" d="M473,67.3c-203.9,88.3-263.1-34-320.3,0C66,119.1,0,59.7,0,59.7V0h1000v59.7 c0,0-62.1,26.1-94.9,29.3c-32.8,3.3-62.8-12.3-75.8-22.1C806,49.6,745.3,8.7,694.9,4.7S492.4,59,473,67.3z"/>
+	<path class="elementor-shape-fill" opacity="0.66" d="M734,67.3c-45.5,0-77.2-23.2-129.1-39.1c-28.6-8.7-150.3-10.1-254,39.1 s-91.7-34.4-149.2,0C115.7,118.3,0,39.8,0,39.8V0h1000v36.5c0,0-28.2-18.5-92.1-18.5C810.2,18.1,775.7,67.3,734,67.3z"/>
+	<path class="elementor-shape-fill" d="M766.1,28.9c-200-57.5-266,65.5-395.1,19.5C242,1.8,242,5.4,184.8,20.6C128,35.8,132.3,44.9,89.9,52.5C28.6,63.7,0,0,0,0 h1000c0,0-9.9,40.9-83.6,48.1S829.6,47,766.1,28.9z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-27b104b4 elementor-hidden-tablet elementor-hidden-phone" data-id="27b104b4" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-639c0cb0" data-id="639c0cb0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-11ffa24a elementor-widget elementor-widget-elementskit-heading" data-id="11ffa24a" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_center   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">SENTRA HKI </h2><h3 class="ekit-heading--subtitle elementskit-section-subtitle  ">
+						UNIVERSITAS MEDIKA SUHERMAN
+					</h3></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-00a1a6c elementor-widget elementor-widget-heading" data-id="00a1a6c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h4 class="elementor-heading-title elementor-size-default">Catatkan HKI anda bersama Sentra HKI Universitas Medika Suherma</h4>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4d1c62cc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4d1c62cc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2e3b279e" data-id="2e3b279e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6caa1635 elementor-widget elementor-widget-elementskit-button" data-id="6caa1635" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" id="">
+					Learn more 				</a>
+					</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-38c28f3a" data-id="38c28f3a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-17e333c3 elementor-widget elementor-widget-elementskit-button" data-id="17e333c3" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" id="">
+					Learn more 				</a>
+					</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-11dce9eb elementor-hidden-tablet elementor-hidden-phone" data-id="11dce9eb" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-67dc65ac elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67dc65ac" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f033a0d" data-id="5f033a0d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7e0fc73e elementor-widget elementor-widget-spacer" data-id="7e0fc73e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.23.0 - 15-07-2024 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-01178a0 elementor-widget elementor-widget-heading" data-id="01178a0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">LAYANAN</h2>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-37e1bd71 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37e1bd71" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-167d2cc6 elementor-invisible" data-id="167d2cc6" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;100&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-157dfb3b ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="157dfb3b" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center text-center icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-Anti-Lock"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    HKI                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3c39e76 elementor-widget elementor-widget-elementskit-button" data-id="3c39e76" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" id="">
+					Selanjutnya				</a>
+					</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-539a40e elementor-invisible" data-id="539a40e" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;200&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-7e8f3923 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="7e8f3923" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center text-center icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-bell"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    PATEN                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-cefb5f3 elementor-widget elementor-widget-elementskit-button" data-id="cefb5f3" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" id="">
+					Selanjutnya				</a>
+					</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-447d15a elementor-invisible" data-id="447d15a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;animation_delay&quot;:&quot;300&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-57343b1e ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box" data-id="57343b1e" data-element_type="widget" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-center text-center icon-top-align elementor-animation-   ">
+                    <div class="elementskit-box-header elementor-animation-">
+                <div class="elementskit-info-box-icon  ">
+                    <i aria-hidden="true" class="elementkit-infobox-icon fasicon icon-design"></i>
+                </div>
+          </div>
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    DESAIN INDUSTRI                </h3>
+                                            </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f56af2a elementor-widget elementor-widget-elementskit-button" data-id="f56af2a" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" id="">
+					Selanjutnya				</a>
+					</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-11504d78 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="11504d78" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-25d09d49" data-id="25d09d49" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-71266337 elementor-widget elementor-widget-spacer" data-id="71266337" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1d6767c9 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1d6767c9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2605f48b" data-id="2605f48b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6d397cb0 elementor-widget elementor-widget-elementskit-heading" data-id="6d397cb0" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h3 class="elementskit-section-subtitle  ">
+						Enjoy unlimited management solution
+					</h3><h2 class="ekit-heading--title elementskit-section-title ">Get tips &amp; tricks on how to detailed your </h2></div></div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d29bd97 elementor-widget__width-auto elementor-widget elementor-widget-elementskit-video" data-id="1d29bd97" data-element_type="widget" data-widget_type="elementskit-video.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="video-content" data-video-player="[]" data-video-setting="{&quot;videoVolume&quot;:&quot;horizontal&quot;,&quot;startVolume&quot;:0.8,&quot;videoType&quot;:&quot;iframe&quot;,&quot;videoClass&quot;:&quot;mfp-fade&quot;}">
+			
+<a class="ekit_icon_button ekit-video-popup ekit-video-popup-btn" href="https://www.youtube.com/embed/BJq4d1-lHq8?feature=oembed?playlist=BJq4d1-lHq8&amp;mute=0&amp;autoplay=0&amp;loop=no&amp;controls=0&amp;start=0&amp;end=" aria-label="video-popup">
+				<i aria-hidden="true" class="icon icon-play"></i>		</a>
+					</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2955b8c7" data-id="2955b8c7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-6fb166b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6fb166b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-592c2f81" data-id="592c2f81" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-554c74c4 ekit-equal-height-disable elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="554c74c4" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Perfect Plan                </h3>
+                        		  <p>Contrary to popular
+not simply random text.</p>
+                                </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-dec112c ekit-equal-height-disable elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="dec112c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:&quot;200&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Perfect Plan                </h3>
+                        		  <p>Contrary to popular
+not simply random text.</p>
+                                </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-3c4b4325" data-id="3c4b4325" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-6354db8a ekit-equal-height-disable elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="6354db8a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:&quot;100&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Perfect Plan                </h3>
+                        		  <p>Contrary to popular
+not simply random text.</p>
+                                </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6ade3708 ekit-equal-height-disable elementor-invisible elementor-widget elementor-widget-elementskit-icon-box" data-id="6ade3708" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;,&quot;_animation_delay&quot;:&quot;300&quot;}" data-widget_type="elementskit-icon-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >        <!-- link opening -->
+                <a href="#" class="ekit_global_links">
+                <!-- end link opening -->
+
+        <div class="elementskit-infobox text-left text- icon-lef-right-aligin elementor-animation-   ">
+                        <div class="box-body">
+                            <h3 class="elementskit-info-box-title">
+                    Perfect Plan                </h3>
+                        		  <p>Contrary to popular
+not simply random text.</p>
+                                </div>
+        
+        
+                </div>
+                </a>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-62d60202 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="62d60202" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-21124317" data-id="21124317" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-429748a elementor-widget elementor-widget-spacer" data-id="429748a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7e417d83 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7e417d83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-297a5048" data-id="297a5048" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5ef93789 elementor-widget elementor-widget-elementskit-client-logo" data-id="5ef93789" data-element_type="widget" data-widget_type="elementskit-client-logo.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="elementskit-clients-slider  simple_logo_image" data-config="{&quot;rtl&quot;:false,&quot;arrows&quot;:false,&quot;dots&quot;:false,&quot;autoplay&quot;:true,&quot;speed&quot;:1000,&quot;slidesPerView&quot;:4,&quot;slidesPerGroup&quot;:1,&quot;pauseOnHover&quot;:true,&quot;loop&quot;:false,&quot;breakpoints&quot;:{&quot;320&quot;:{&quot;slidesPerView&quot;:1,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;768&quot;:{&quot;slidesPerView&quot;:2,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:10},&quot;1024&quot;:{&quot;slidesPerView&quot;:4,&quot;slidesPerGroup&quot;:1,&quot;spaceBetween&quot;:15}}}" data-direction="">
+			<div class="ekit-main-swiper swiper">
+				<div class="swiper-wrapper">
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="Title #1">
+									
+										<div class="content-image">
+
+											<img decoding="async" width="138" height="35" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-2-3.png" class="" alt="" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="List Title">
+									
+										<div class="content-image">
+
+											<img decoding="async" width="113" height="35" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-3-3.png" class="" alt="" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="List Title">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="155" height="35" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-4-3.png" class="" alt="" srcset="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-4-3.png 155w, https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-4-3-150x35.png 150w" sizes="(max-width: 155px) 100vw, 155px" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="List Title">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="142" height="35" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-5-2.png" class="" alt="" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+											<div class="elementskit-client-slider-item swiper-slide ">
+							<div class="swiper-slide-inner">
+								<div class="single-client image-switcher" title="List Title">
+									
+										<div class="content-image">
+
+											<img loading="lazy" decoding="async" width="108" height="35" src="https://sentrahki.medikasuherman.ac.id/wp-content/uploads/2024/07/partner_img-7.png" class="" alt="" />										</div>
+
+									
+								</div>
+							</div>
+						</div>
+									</div>
+
+				
+							</div><!-- .elementskit-clients-slider END -->
+		</div>
+		</div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-63518deb elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="63518deb" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e8816f3" data-id="e8816f3" data-element_type="column">
+			<div class="elementor-widget-wrap">
+							</div>
+		</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-54807548 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="54807548" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3aca9515" data-id="3aca9515" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<section class="elementor-section elementor-inner-section elementor-element elementor-element-49da8223 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="49da8223" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-53fc6100" data-id="53fc6100" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-49b2b8e3 elementor-widget elementor-widget-elementskit-heading" data-id="49b2b8e3" data-element_type="widget" data-widget_type="elementskit-heading.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" ><div class="ekit-heading elementskit-section-title-wraper text_left   ekit_heading_tablet-   ekit_heading_mobile-"><h2 class="ekit-heading--title elementskit-section-title ">Ready to get started?  </h2><h3 class="ekit-heading--subtitle elementskit-section-subtitle  ">
+						It&#039;s fast, free and very easy!
+					</h3></div></div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6129c351" data-id="6129c351" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+						<div class="elementor-element elementor-element-5d9ce6c0 elementor-widget elementor-widget-elementskit-button" data-id="5d9ce6c0" data-element_type="widget" data-widget_type="elementskit-button.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con" >		<div class="ekit-btn-wraper">
+							<a href="#" class="elementskit-btn  whitespace--normal" id="">
+					Get a free consult				</a>
+					</div>
+        </div>		</div>
+				</div>
+					</div>
+		</div>
+					</div>
+		</section>
+					</div>
+		</div>
+					</div>
+		</section>
+				</div>
+			</div> <!-- ast-container -->
+	</div><!-- #content -->
+<footer
+class="site-footer" id="colophon" itemtype="https://schema.org/WPFooter" itemscope="itemscope" itemid="#colophon">
+			<div class="site-below-footer-wrap ast-builder-grid-row-container site-footer-focus-item ast-builder-grid-row-full ast-builder-grid-row-tablet-full ast-builder-grid-row-mobile-full ast-footer-row-stack ast-footer-row-tablet-stack ast-footer-row-mobile-stack" data-section="section-below-footer-builder">
+	<div class="ast-builder-grid-row-container-inner">
+					<div class="ast-builder-footer-grid-columns site-below-footer-inner-wrap ast-builder-grid-row">
+											<div class="site-footer-below-section-1 site-footer-section site-footer-section-1">
+								<div class="ast-builder-layout-element ast-flex site-footer-focus-item ast-footer-copyright" data-section="section-footer-builder">
+				<div class="ast-footer-copyright"><p>Copyright &copy; 2024  | Powered by Sentra HKI UMS</p>
+</div>			</div>
+						</div>
+										</div>
+			</div>
 
 </div>
-			</div> <!-- .et_pb_code -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_10  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_code et_pb_code_1 et_animated et_clickable">
-				
-				
-				<div class="et_pb_code_inner"><div class="cff-wrapper"><div class="cff-wrapper-ctn  cff-wrapper-fixed-height"  style="height:400px;" ><div id="cff"  class="cff cff-list-container  cff-fixed-height  cff-default-styles  cff-mob-cols-1 cff-tab-cols-1"   style="width:100%;"   data-char="400" ><div class="cff-error-msg">
-	<div>
-		<i class="fa fa-lock" aria-hidden="true" style="margin-right: 5px;"></i><b>This message is only visible to admins.</b><br/>
-		Problem displaying Facebook posts.					<br/><a href="javascript:void(0);" id="cff-show-error" onclick="cffShowError()">Click to show error</a>
-			<script type="text/javascript">function cffShowError() { document.getElementById("cff-error-reason").style.display = "block"; document.getElementById("cff-show-error").style.display = "none"; }</script>
-			</div>
-			<div id="cff-error-reason">
-																													<b>Error:</b> Server configuration issue												
-			</div>
-				
+	</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+<div id="ast-scroll-top" tabindex="0" class="ast-scroll-top-icon ast-scroll-to-top-right" data-on-devices="both">
+	<span class="ast-icon icon-arrow"><svg class="ast-arrow-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="26px" height="16.043px" viewBox="57 35.171 26 16.043" enable-background="new 57 35.171 26 16.043" xml:space="preserve">
+                <path d="M57.5,38.193l12.5,12.5l12.5-12.5l-2.5-2.5l-10,10l-10-10L57.5,38.193z"/>
+                </svg></span>	<span class="screen-reader-text">Scroll to Top</span>
 </div>
-<div class="cff-posts-wrap"></div><input class="cff-pag-url" type="hidden" data-locatornonce="69d9351ff0" data-cff-shortcode="" data-post-id="686" data-feed-id="802728623110096"></div></div><div class="cff-clear"></div></div></div>
-			</div> <!-- .et_pb_code -->
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_11  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_code et_pb_code_2 et_animated et_clickable">
-				
-				
-				<div class="et_pb_code_inner"><div id="ctf" class="ctf" data-ctfshortcode="{}"><div class="ctf-error"><div class="ctf-error-user"></div></div></div></div>
-			</div> <!-- .et_pb_code -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_5 et_section_regular" >
-				
-				
-				
-				
-					
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_6 et_animated et_clickable et_pb_with_background et_section_regular" >
-				
-				
-				
-				
-					<div class="et_pb_row et_pb_row_6">
-				<div class="et_pb_column et_pb_column_4_4 et_pb_column_12  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_text et_pb_text_4  et_pb_text_align_center et_pb_bg_layout_dark">
-				
-				
-				<div class="et_pb_text_inner"><h2><span style="font-size: xx-large;">Sentra Medika Group</span></h2></div>
-			</div> <!-- .et_pb_text -->
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row --><div class="et_pb_row et_pb_row_7">
-				<div class="et_pb_column et_pb_column_1_5 et_pb_column_13  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_7 et_animated et-waypoint">
-				
-				
-				<a href="https://sentramedikahospitals.com/harbun/index.php" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/04/harbun-telpon-1.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/04/harbun-telpon-1.png 550w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/harbun-telpon-1-480x157.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 550px, 100vw" /></span></a>
-			</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_14  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_8 et_animated et-waypoint">
-				
-				
-				<a href="https://sentramedikahospitals.com/cisalak/index.php" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cisalak-1.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cisalak-1.png 550w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cisalak-1-480x157.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 550px, 100vw" /></span></a>
-			</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_15  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_9 et_animated et-waypoint">
-				
-				
-				<a href="https://sentramedikahospitals.com/cibinong/jadwal-dokter.php" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cibinong-10.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cibinong-10.png 550w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cibinong-10-480x157.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 550px, 100vw" /></span></a>
-			</div><div class="et_pb_module et_pb_image et_pb_image_10 et_animated et-waypoint">
-				
-				
-				<a href="https://www.smksentra-medika.sch.id/" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/04/smk-sentra-medika.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/04/smk-sentra-medika.png 758w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/smk-sentra-medika-480x101.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 758px, 100vw" /></span></a>
-			</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_11 et_animated et-waypoint">
-				
-				
-				<a href="https://sentramedikahospitals.com/minut/index.php" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-minut-1.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-minut-1.png 550w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-minut-1-480x157.png 480w" sizes="(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 550px, 100vw" /></span></a>
-			</div>
-			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_5 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child">
-				
-				
-				<div class="et_pb_module et_pb_image et_pb_image_12 et_animated et-waypoint">
-				
-				
-				<a href="https://sentramedikahospitals.com/cikarang/index.php" target="_blank"><span class="et_pb_image_wrap "><img decoding="async" src="https://medikasuherman.ac.id/beta/wp-content/uploads/2021/04/sentra-cikarang.png" alt="" title="" srcset="https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cikarang.png 550w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cikarang-300x98.png 300w, https://medikasuherman.ac.id/wp-content/uploads/2021/04/sentra-cikarang-480x157.png 480w" sizes="(max-width: 550px) 100vw, 550px" /></span></a>
-			</div>
-			</div> <!-- .et_pb_column -->
-				
-				
-			</div> <!-- .et_pb_row -->
-				
-				
-			</div> <!-- .et_pb_section --><div class="et_pb_section et_pb_section_7 et_section_regular" >
-				
-				
-				
-				
-					
-				
-				
-			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
-	</div><!-- .et-l -->
-	
-			
-		</div><!-- #et-boc -->
-							</div> <!-- .entry-content -->
-
-				
-				</article> <!-- .et_pb_post -->
-
-			
-
-</div> <!-- #main-content -->
-
-
-			<footer id="main-footer">
-				
-<div class="container">
-    <div id="footer-widgets" class="clearfix">
-		<div class="footer-widget"><div id="text-5" class="fwidget et_pb_widget widget_text"><h4 class="title">Jam Kerja</h4>			<div class="textwidget"><p>Senin &#8211; Jumat : 08.00 &#8211; 16.00 WIB<br />
-Sabtu : 08.00 &#8211; 14.00 WIB</p>
-</div>
-		</div> <!-- end .fwidget --><div id="custom_html-3" class="widget_text fwidget et_pb_widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://api.whatsapp.com/send?phone=+6282211212278&amp;text=Hallo,%20Saya%20mau%20bertanya%20tentang%20Universitas Medika Suherman"><img src="https://medikasuherman.ac.id/wp-content/uploads/2024/07/logo-whatsapp-png-46049-removebg-preview-1.png" width="16" height="16" class="" /></a></div></div> <!-- end .fwidget --><div id="archives-6" class="fwidget et_pb_widget widget_archive"><h4 class="title">Arsip</h4>		<label class="screen-reader-text" for="archives-dropdown-6">Arsip</label>
-		<select id="archives-dropdown-6" name="archive-dropdown">
-			
-			<option value="">Pilih Bulan</option>
-				<option value='https://medikasuherman.ac.id/blog/2024/11/'> November 2024 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/10/'> Oktober 2024 &nbsp;(10)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/09/'> September 2024 &nbsp;(6)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/08/'> Agustus 2024 &nbsp;(13)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/07/'> Juli 2024 &nbsp;(19)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/06/'> Juni 2024 &nbsp;(11)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/05/'> Mei 2024 &nbsp;(11)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/04/'> April 2024 &nbsp;(8)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/03/'> Maret 2024 &nbsp;(18)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/02/'> Februari 2024 &nbsp;(16)</option>
-	<option value='https://medikasuherman.ac.id/blog/2024/01/'> Januari 2024 &nbsp;(15)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/12/'> Desember 2023 &nbsp;(14)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/11/'> November 2023 &nbsp;(18)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/10/'> Oktober 2023 &nbsp;(22)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/09/'> September 2023 &nbsp;(23)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/08/'> Agustus 2023 &nbsp;(12)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/07/'> Juli 2023 &nbsp;(20)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/06/'> Juni 2023 &nbsp;(21)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/05/'> Mei 2023 &nbsp;(6)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/04/'> April 2023 &nbsp;(7)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/03/'> Maret 2023 &nbsp;(7)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/02/'> Februari 2023 &nbsp;(7)</option>
-	<option value='https://medikasuherman.ac.id/blog/2023/01/'> Januari 2023 &nbsp;(2)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/12/'> Desember 2022 &nbsp;(4)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/11/'> November 2022 &nbsp;(1)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/10/'> Oktober 2022 &nbsp;(20)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/09/'> September 2022 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/08/'> Agustus 2022 &nbsp;(13)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/07/'> Juli 2022 &nbsp;(28)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/06/'> Juni 2022 &nbsp;(23)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/05/'> Mei 2022 &nbsp;(8)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/04/'> April 2022 &nbsp;(12)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/03/'> Maret 2022 &nbsp;(15)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/02/'> Februari 2022 &nbsp;(14)</option>
-	<option value='https://medikasuherman.ac.id/blog/2022/01/'> Januari 2022 &nbsp;(10)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/12/'> Desember 2021 &nbsp;(5)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/11/'> November 2021 &nbsp;(6)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/10/'> Oktober 2021 &nbsp;(10)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/09/'> September 2021 &nbsp;(25)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/08/'> Agustus 2021 &nbsp;(10)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/07/'> Juli 2021 &nbsp;(2)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/06/'> Juni 2021 &nbsp;(1)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/05/'> Mei 2021 &nbsp;(4)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/04/'> April 2021 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/03/'> Maret 2021 &nbsp;(2)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/02/'> Februari 2021 &nbsp;(3)</option>
-	<option value='https://medikasuherman.ac.id/blog/2021/01/'> Januari 2021 &nbsp;(7)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/12/'> Desember 2020 &nbsp;(1)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/11/'> November 2020 &nbsp;(2)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/10/'> Oktober 2020 &nbsp;(5)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/09/'> September 2020 &nbsp;(4)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/08/'> Agustus 2020 &nbsp;(3)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/07/'> Juli 2020 &nbsp;(4)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/06/'> Juni 2020 &nbsp;(2)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/05/'> Mei 2020 &nbsp;(2)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/04/'> April 2020 &nbsp;(5)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/03/'> Maret 2020 &nbsp;(10)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/02/'> Februari 2020 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2020/01/'> Januari 2020 &nbsp;(8)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/12/'> Desember 2019 &nbsp;(5)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/11/'> November 2019 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/10/'> Oktober 2019 &nbsp;(11)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/09/'> September 2019 &nbsp;(12)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/08/'> Agustus 2019 &nbsp;(8)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/07/'> Juli 2019 &nbsp;(7)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/06/'> Juni 2019 &nbsp;(7)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/05/'> Mei 2019 &nbsp;(6)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/04/'> April 2019 &nbsp;(6)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/03/'> Maret 2019 &nbsp;(5)</option>
-	<option value='https://medikasuherman.ac.id/blog/2019/02/'> Februari 2019 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2018/11/'> November 2018 &nbsp;(8)</option>
-	<option value='https://medikasuherman.ac.id/blog/2018/10/'> Oktober 2018 &nbsp;(1)</option>
-	<option value='https://medikasuherman.ac.id/blog/2018/08/'> Agustus 2018 &nbsp;(1)</option>
-	<option value='https://medikasuherman.ac.id/blog/2018/04/'> April 2018 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2018/03/'> Maret 2018 &nbsp;(3)</option>
-	<option value='https://medikasuherman.ac.id/blog/2017/12/'> Desember 2017 &nbsp;(6)</option>
-	<option value='https://medikasuherman.ac.id/blog/2017/11/'> November 2017 &nbsp;(12)</option>
-	<option value='https://medikasuherman.ac.id/blog/2017/09/'> September 2017 &nbsp;(9)</option>
-	<option value='https://medikasuherman.ac.id/blog/2016/05/'> Mei 2016 &nbsp;(4)</option>
-
-		</select>
-
-			<script type="text/javascript">
-/* <![CDATA[ */
-
-(function() {
-	var dropdown = document.getElementById( "archives-dropdown-6" );
-	function onSelectChange() {
-		if ( dropdown.options[ dropdown.selectedIndex ].value !== '' ) {
-			document.location.href = this.options[ this.selectedIndex ].value;
-		}
-	}
-	dropdown.onchange = onSelectChange;
-})();
-
-/* ]]> */
+			<script type='text/javascript'>
+				const lazyloadRunObserver = () => {
+					const lazyloadBackgrounds = document.querySelectorAll( `.e-con.e-parent:not(.e-lazyloaded)` );
+					const lazyloadBackgroundObserver = new IntersectionObserver( ( entries ) => {
+						entries.forEach( ( entry ) => {
+							if ( entry.isIntersecting ) {
+								let lazyloadBackground = entry.target;
+								if( lazyloadBackground ) {
+									lazyloadBackground.classList.add( 'e-lazyloaded' );
+								}
+								lazyloadBackgroundObserver.unobserve( entry.target );
+							}
+						});
+					}, { rootMargin: '200px 0px 200px 0px' } );
+					lazyloadBackgrounds.forEach( ( lazyloadBackground ) => {
+						lazyloadBackgroundObserver.observe( lazyloadBackground );
+					} );
+				};
+				const events = [
+					'DOMContentLoaded',
+					'elementor/lazyload/observe',
+				];
+				events.forEach( ( event ) => {
+					document.addEventListener( event, lazyloadRunObserver );
+				} );
+			</script>
+			<link rel='stylesheet' id='e-animations-css' href='https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.23.1' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://sentrahki.medikasuherman.ac.id/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://sentrahki.medikasuherman.ac.id/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.5.5' media='all' />
+<script id="astra-theme-js-js-extra">
+var astra = {"break_point":"921","isRtl":"","is_scroll_to_id":"1","is_scroll_to_top":"1","is_header_footer_builder_active":"1","responsive_cart_click":"flyout"};
 </script>
-</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"><div id="aboutmewidget-3" class="fwidget et_pb_widget widget_aboutmewidget"><h4 class="title">UNIVERSITAS MEDIKA SUHERMAN (Yayasan Medika Bahagia)</h4>		<div class="clearfix">
-			<img src="" id="about-image" alt="" />
-			Jl. Raya Industri Pasirgombong 
-Jababeka, cikarang - Bekasi 17530
-
-Nomor Telepon : 
-0811-777-008 
-0822-1121-2278
-0811-332-121		</div> <!-- end about me section -->
-	</div> <!-- end .fwidget --></div> <!-- end .footer-widget --><div class="footer-widget"></div> <!-- end .footer-widget --><div class="footer-widget"></div> <!-- end .footer-widget -->    </div> <!-- #footer-widgets -->
-</div>    <!-- .container -->
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/themes/astra/assets/js/minified/frontend.min.js?ver=4.7.3" id="astra-theme-js-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0" id="regenerator-runtime-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/dist/dom-ready.min.js?ver=f77871ff7694fffea381" id="wp-dom-ready-js"></script>
+<script id="starter-templates-zip-preview-js-extra">
+var starter_templates_zip_preview = {"AstColorPaletteVarPrefix":"--ast-global-color-","AstEleColorPaletteVarPrefix":["ast-global-color-0","ast-global-color-1","ast-global-color-2","ast-global-color-3","ast-global-color-4","ast-global-color-5","ast-global-color-6","ast-global-color-7","ast-global-color-8"]};
+</script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/astra-sites/inc/lib/onboarding/assets/dist/template-preview/main.js?ver=06758d4d807d9d22c6ea" id="starter-templates-zip-preview-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.2.1" id="elementskit-framework-js-frontend-js"></script>
+<script id="elementskit-framework-js-frontend-js-after">
+		var elementskit = {
+			resturl: 'https://sentrahki.medikasuherman.ac.id/wp-json/elementskit/v1/',
+		}
 
 		
-				<div id="footer-bottom">
-					<div class="container clearfix">
-				<ul class="et-social-icons">
-
-	<li class="et-social-icon et-social-facebook">
-		<a href="https://web.facebook.com/IMDSuherman" class="icon">
-			<span>Facebook</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-twitter">
-		<a href="https://twitter.com/imds_id" class="icon">
-			<span>Twitter</span>
-		</a>
-	</li>
-	<li class="et-social-icon et-social-instagram">
-		<a href="https://www.instagram.com/imds.id/" class="icon">
-			<span>Instagram</span>
-		</a>
-	</li>
-
-</ul><div id="footer-info">Copyright @2021 | Universitas Medika Suherman</div>					</div>	<!-- .container -->
-				</div>
-			</footer> <!-- #main-footer -->
-		</div> <!-- #et-main-area -->
-
-
-	</div> <!-- #page-container -->
-
-	<!-- Custom Facebook Feed JS -->
-<script type="text/javascript">var cffajaxurl = "https://medikasuherman.ac.id/wp-admin/admin-ajax.php";
-var cfflinkhashtags = "true";
 </script>
-<!-- WhatsHelp.io widget -->
-<script type="text/javascript">
-    (function () {
-        var options = {
-            whatsapp: "+62811777008", // WhatsApp number
-            call_to_action: "Hubungi Kami", // Call to action 
-greeting_message: "Dengan IMDS, ada yang bisa kami bantu?",
-            position: "right", // Position may be 'right' or 'left'
-        };
-        var proto = document.location.protocol, host = "whatshelp.io", url = proto + "//static." + host;
-        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = url + '/widget-send-button/js/init.js';
-        s.onload = function () { WhWidgetSendButton.init(host, proto, options); };
-        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
-    })();
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.2.1" id="ekit-widget-scripts-js"></script>
+<script id="mediaelement-core-js-before">
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
 </script>
-<!-- /WhatsHelp.io widget --><!-- Instagram Feed JS -->
-<script type="text/javascript">
-var sbiajaxurl = "https://medikasuherman.ac.id/wp-admin/admin-ajax.php";
-</script>
-	<script type="text/javascript">
-				var et_animation_data = [{"class":"et_pb_section_0","style":"zoomBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_section_1","style":"zoomBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_image_0","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_1","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_2","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_3","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_4","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_5","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_6","style":"slide","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_section_3","style":"zoomBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_code_0","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_code_1","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_code_2","style":"fold","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_section_6","style":"zoomBottom","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"8%","starting_opacity":"100%","speed_curve":"ease-in-out"},{"class":"et_pb_image_7","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_8","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_9","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_10","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_11","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"},{"class":"et_pb_image_12","style":"fade","repeat":"once","duration":"1000ms","delay":"0ms","intensity":"50%","starting_opacity":"0%","speed_curve":"ease-in-out"}];
-				var et_link_options_data = [{"class":"et_pb_text_0","url":"https:\/\/medikasuherman.ac.id\/berita","target":"_self"},{"class":"et_pb_column_8","url":"https:\/\/medikasuherman.ac.id\/blog\/2021\/04\/22\/prodi-administrasi-rs-pengmas-bencana-siklon-tropis-seroja-ntt\/","target":"_self"},{"class":"et_pb_column_9","url":"https:\/\/medikasuherman.ac.id\/blog\/2021\/04\/22\/prodi-administrasi-rs-pengmas-bencana-siklon-tropis-seroja-ntt\/","target":"_self"},{"class":"et_pb_code_0","url":"http:\/\/&#91;instagram-feed&#93;","target":"_blank"},{"class":"et_pb_code_1","url":"http:\/\/&#91;custom-facebook-feed&#93;","target":"_blank"},{"class":"et_pb_code_2","url":"http:\/\/&#91;custom-twitter-feeds&#93;","target":"_self"},{"class":"et_pb_section_6","url":"https:\/\/medikasuherman.ac.id\/blog\/2021\/04\/22\/prodi-administrasi-rs-pengmas-bencana-siklon-tropis-seroja-ntt\/","target":"_self"}];
-			</script>
-	<link rel='stylesheet' id='mediaelement-css' href='https://medikasuherman.ac.id/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-mediaelement-css' href='https://medikasuherman.ac.id/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.6.2' type='text/css' media='all' />
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/js/wppa.js?ver=dummy" id="wppa-js"></script>
-<script type="text/javascript" id="wppa-js-after">
-/* <![CDATA[ */
-const { __ } = wp.i18n;
-
-wppaSiteUrl = "https://medikasuherman.ac.id",
-wppaThumbPageSize = 0,
-wppaResizeEndDelay = 200,
-wppaScrollEndDelay = 200,
-_wppaTextDelay = 800,
-wppaEasingSlide = "swing",
-wppaEasingLightbox = "swing",
-wppaEasingPopup = "swing",
-wppaUploadButtonText = "Browse...",
-wppaOvlBigBrowse = false,
-wppaOvlSmallBrowse = true,
-wppaImageMagickDefaultAspect = "NaN",
-wppaImageDirectory = "https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/img/",
-wppaWppaUrl = "https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu",
-wppaIncludeUrl = "https://medikasuherman.ac.id/wp-includes",
-wppaAjaxMethod = "rest",
-wppaAjaxUrl = "https://medikasuherman.ac.id/wp-json/wp-photo-album-plus/endPoint",
-wppaAdminAjaxUrl = "https://medikasuherman.ac.id/wp-admin/admin-ajax.php",
-wppaUploadUrl = "https://medikasuherman.ac.id/wp-content/uploads/wppa",
-wppaIsIe = false,
-wppaIsSafari = false,
-wppaSlideshowNavigationType = "icons",
-wppaSlideshowDefaultTimeout = 2.5,
-wppaAudioHeight = 32,
-wppaFilmThumbTitle = "Double click to start/stop slideshow running",
-wppaClickToView = "Click to view",
-wppaLang = "en",
-wppaVoteForMe = "Vote for me!",
-wppaVotedForMe = "Voted for me",
-wppaGlobalFsIconSize = "32",
-wppaFsFillcolor = "#999999",
-wppaFsBgcolor = "transparent",
-wppaFsPolicy = "lightbox",
-wppaNiceScroll = false,
-wppaNiceScrollOpts = {cursorwidth:'8px',
-cursoropacitymin:0.4,
-cursorcolor:'#777777',
-cursorborder:'none',
-cursorborderradius:'6px',
-autohidemode:'leave',
-nativeparentscrolling:false,
-preservenativescrolling:false,
-bouncescroll:false,
-smoothscroll:true,
-cursorborder:'2px solid transparent',
-horizrailenabled:false,},
-wppaVersion = "8.8.03.003",
-wppaBackgroundColorImage = "#eeeeee",
-wppaPopupLinkType = "photo",
-wppaAnimationType = "fadeover",
-wppaAnimationSpeed = 800,
-wppaThumbnailAreaDelta = 14,
-wppaTextFrameDelta = 181,
-wppaBoxDelta = 14,
-wppaFilmShowGlue = true,
-wppaMiniTreshold = 500,
-wppaRatingOnce = false,
-wppaHideWhenEmpty = false,
-wppaBGcolorNumbar = "#cccccc",
-wppaBcolorNumbar = "#cccccc",
-wppaBGcolorNumbarActive = "#333333",
-wppaBcolorNumbarActive = "#333333",
-wppaFontFamilyNumbar = "",
-wppaFontSizeNumbar = "px",
-wppaFontColorNumbar = "#777777",
-wppaFontWeightNumbar = "normal",
-wppaFontFamilyNumbarActive = "",
-wppaFontSizeNumbarActive = "px",
-wppaFontColorNumbarActive = "#777777",
-wppaFontWeightNumbarActive = "bold",
-wppaNumbarMax = "10",
-wppaNextOnCallback = false,
-wppaStarOpacity = 0.2,
-wppaEmailRequired = "required",
-wppaSlideBorderWidth = 0,
-wppaAllowAjax = true,
-wppaThumbTargetBlank = false,
-wppaRatingMax = 5,
-wppaRatingDisplayType = "graphic",
-wppaRatingPrec = 2,
-wppaStretch = false,
-wppaMinThumbSpace = 4,
-wppaThumbSpaceAuto = true,
-wppaMagnifierCursor = "magnifier-small.png",
-wppaAutoOpenComments = true,
-wppaUpdateAddressLine = true,
-wppaSlideSwipe = false,
-wppaMaxCoverWidth = 1024,
-wppaSlideToFullpopup = false,
-wppaComAltSize = 75,
-wppaBumpViewCount = true,
-wppaBumpClickCount = false,
-wppaShareHideWhenRunning = true,
-wppaFotomoto = false,
-wppaFotomotoHideWhenRunning = false,
-wppaCommentRequiredAfterVote = false,
-wppaFotomotoMinWidth = 400,
-wppaOvlHires = true,
-wppaSlideVideoStart = false,
-wppaSlideAudioStart = false,
-wppaOvlRadius = 12,
-wppaOvlBorderWidth = 8,
-wppaThemeStyles = "",
-wppaStickyHeaderHeight = 0,
-wppaRenderModal = false,
-wppaModalQuitImg = "url(https://medikasuherman.ac.id/wp-content/plugins/wp-photo-album-plus-xsaw-gu/img/smallcross-black.gif )",
-wppaBoxRadius = "6",
-wppaModalBgColor = "#ffffff",
-wppaUploadEdit = "-none-",
-wppaSvgFillcolor = "#666666",
-wppaSvgBgcolor = "transparent",
-wppaOvlSvgFillcolor = "#999999",
-wppaOvlSvgBgcolor = "transparent",
-wppaSvgCornerStyle = "medium",
-wppaHideRightClick = false,
-wppaGeoZoom = 10,
-wppaLazyLoad = true,
-wppaAreaMaxFrac = 0,
-wppaAreaMaxFracSlide = 0,
-wppaAreaMaxFracAudio = 0,
-wppaIconSizeNormal = "default",
-wppaIconSizeSlide = "default",
-wppaResponseSpeed = 0,
-wppaExtendedResizeCount = 0,
-wppaExtendedResizeDelay = 1000,
-wppaCoverSpacing = 8,
-wppaFilmonlyContinuous = false,
-wppaNoAnimateOnMobile = false,
-wppaAjaxScroll = true,
-wppaThumbSize = 100,
-wppaTfMargin = 4,
-wppaRequestInfoDialogText = "Please specify your question",
-wppaThumbAspect = 0.75,
-wppaOvlTxtHeight = "auto",
-wppaOvlOpacity = 0.8,
-wppaOvlOnclickType = "none",
-wppaOvlTheme = "black",
-wppaOvlAnimSpeed = 300,
-wppaOvlSlideSpeed = 5000,
-wppaVer4WindowWidth = 800,
-wppaVer4WindowHeight = 600,
-wppaOvlShowCounter = true,
-wppaOvlFontFamily = "",
-wppaOvlFontSize = "10",
-wppaOvlFontColor = "",
-wppaOvlFontWeight = "bold",
-wppaOvlLineHeight = "10",
-wppaOvlVideoStart = true,
-wppaOvlAudioStart = true,
-wppaOvlShowStartStop = true,
-wppaIsMobile = false,
-wppaIsIpad = false,
-wppaOvlIconSize = "32px",
-wppaOvlBrowseOnClick = false,
-wppaOvlGlobal = false,
-wppaPhotoDirectory = "https://medikasuherman.ac.id/wp-content/uploads/wppa/",
-wppaThumbDirectory = "https://medikasuherman.ac.id/wp-content/uploads/wppa/thumbs/",
-wppaTempDirectory = "https://medikasuherman.ac.id/wp-content/uploads/wppa/temp/",
-wppaFontDirectory = "https://medikasuherman.ac.id/wp-content/uploads/wppa/fonts/",
-wppaOutputType = "-none-";var
-wppaShortcodeTemplate = "";
-wppaShortcodeTemplateId = "";
- jQuery("body").append(' <div id="wppa-overlay-bg" style="text-align:center;display:none;position:fixed;top:0;left:0;width:100%;height:10000px;background-color:black" onclick="wppaOvlOnclick(event)" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-ic" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-pc" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-fpc" onwheel="return false;" onscroll="return false;"></div><div id="wppa-overlay-zpc" onwheel="return false;" onscroll="return false;"></div><img id="wppa-pre-prev" style="position:fixed;left:0;top:50%;width:100px;visibility:hidden" class="wppa-preload wppa-ovl-preload"><img id="wppa-pre-next" style="position:fixed;right:0;top:50%;width:100px;visibility:hidden" class="wppa-preload wppa-ovl-preload"><img id="wppa-pre-curr" style="position:fixed;left:0;top:0;visibility:hidden" class="wppa-preload-curr wppa-ovl-preload"><svg id="wppa-ovl-spin" class="wppa-spinner uil-default" width="120px" height="120px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid" stroke="" style="width:120px; height:120px; position:fixed; top:50%; margin-top:-60px; left:50%; margin-left:-60px; opacity:1; display:none; fill:#999999; background-color:transparent; border-radius:24px;"><rect x="0" y="0" width="100" height="100" fill="none" class="bk"></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(0 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(22.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.09375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(45 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.1875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(67.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.28125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(90 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(112.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.46875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(135 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.5625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(157.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.65625s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(180 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.75s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(202.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.84375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(225 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="0.9375s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(247.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.03125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(270 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(292.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.21875s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(315 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.3125s" repeatCount="indefinite" ></rect><rect class="wppa-ajaxspin" x="47" y="40" width="6" height="20" rx="3" ry="3" transform="rotate(337.5 50 50) translate(0 -32)"><animate attributeName="opacity" from="1" to="0" dur="1.5s" begin="1.40625s" repeatCount="indefinite" ></rect></svg>');
- jQuery("body").append('<input type="hidden" id="wppa-nonce" name="wppa-nonce" value="01bc2496b8" ><input type="hidden" id="wppa-qr-nonce" name="wppa-qr-nonce" value="976ce5b3f1" >');
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/tabs-responsive/assets/js/tabs-custom.js?ver=6.6.2" id="wpsm_tabs_r_custom-js-front-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/tabs-responsive/assets/js/bootstrap.js?ver=6.6.2" id="wpsm_tabs_r_bootstrap-js-front-js"></script>
-<script type="text/javascript" id="divi-custom-script-js-extra">
-/* <![CDATA[ */
-var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
-var et_shortcodes_strings = {"previous":"Sebelumnya","next":"Lanjut"};
-var et_pb_custom = {"ajaxurl":"https:\/\/medikasuherman.ac.id\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/medikasuherman.ac.id\/wp-content\/themes\/Divi%20Pack\/Divi\/images","builder_images_uri":"https:\/\/medikasuherman.ac.id\/wp-content\/themes\/Divi%20Pack\/Divi\/includes\/builder\/images","et_frontend_nonce":"5eebfce91e","subscription_failed":"Silakan, periksa ladang di bawah ini untuk memastikan anda memasukkan informasi yang benar.","et_ab_log_nonce":"e8670479aa","fill_message":"Silahkan, isi kolom berikut:","contact_error_message":"Perbaiki kesalahan-kesalahan berikut:","invalid":"Tidak valid email","captcha":"Captcha","prev":"Sebelum","previous":"Sebelumnya","next":"Berikutnya","wrong_captcha":"Anda memasukkan angka yang salah pada captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"686","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
-var et_pb_box_shadow_elements = [];
-var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/themes/Divi%20Pack/Divi/js/custom.unified.js?ver=4.4.3" id="divi-custom-script-js"></script>
-<script type="text/javascript" id="cffscripts-js-extra">
-/* <![CDATA[ */
-var cffOptions = {"placeholder":"https:\/\/medikasuherman.ac.id\/wp-content\/plugins\/custom-facebook-feed\/assets\/img\/placeholder.png"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.js?ver=4.1.1" id="cffscripts-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/themes/Divi%20Pack/Divi/core/admin/js/common.js?ver=4.4.3" id="et-core-common-js"></script>
-<script type="text/javascript" id="eael-general-js-extra">
-/* <![CDATA[ */
-var localize = {"ajaxurl":"https:\/\/medikasuherman.ac.id\/wp-admin\/admin-ajax.php","nonce":"20ad5c88ca","i18n":{"added":"Added ","compare":"Compare","loading":"Loading..."},"eael_translate_text":{"required_text":"is a required field","invalid_text":"Invalid","billing_text":"Billing","shipping_text":"Shipping","fg_mfp_counter_text":"of"},"page_permalink":"https:\/\/medikasuherman.ac.id\/","cart_redirectition":"","cart_page_url":"","el_breakpoints":{"mobile":{"label":"Ponsel","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Ekstra Seluler","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Ekstra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Layar lebar","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=5.8.3" id="eael-general-js"></script>
-<script type="text/javascript" id="mediaelement-core-js-before">
-/* <![CDATA[ */
-var mejsL10n = {"language":"id","strings":{"mejs.download-file":"Unduh Berkas","mejs.install-flash":"Anda menggunakan peramban yang tidak terinstal pemutar Flash. Silakan hidupkan plugin pemutar Flash Anda atau unduh versi terakhirnya dari https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Selayar penuh","mejs.play":"Putar","mejs.pause":"Jeda","mejs.time-slider":"Penggeser Waktu","mejs.time-help-text":"Gunakan tuts Panah Kanan\/Kiri untuk melompat satu detik, panah Atas\/Bawah untuk melompat sepuluh detik.","mejs.live-broadcast":"Siaran Langsung","mejs.volume-help-text":"Gunakan Anak Panah Atas\/Bawah untuk menaikkan atau menurunkan volume.","mejs.unmute":"Matikan Sunyi","mejs.mute":"Bisu","mejs.volume-slider":"Penggeser Volume","mejs.video-player":"Pemutar Video","mejs.audio-player":"Pemutar Audio","mejs.captions-subtitles":"Subteks\/Subjudul","mejs.captions-chapters":"Bab","mejs.none":"Tak ada","mejs.afrikaans":"Bahasa Afrikanas","mejs.albanian":"Bahasa Albania","mejs.arabic":"Bahasa Arab","mejs.belarusian":"Bahasa Belarusia","mejs.bulgarian":"Bahasa Bulgaria","mejs.catalan":"Bahasa Katalan","mejs.chinese":"Bahasa Mandarin","mejs.chinese-simplified":"Bahasa Mandarin (Disederhanakan)","mejs.chinese-traditional":"Bahasa Mandarin (Tradisional)","mejs.croatian":"Bahasa Kroasia","mejs.czech":"Bahasa Ceko","mejs.danish":"Bahasa Denmark","mejs.dutch":"Bahasa Belanda","mejs.english":"Bahasa Inggris","mejs.estonian":"Bahasa Estonia","mejs.filipino":"Bahasa Filipino","mejs.finnish":"Bahasa Finlandia","mejs.french":"Bahasa Perancis","mejs.galician":"Bahasa Galikan","mejs.german":"Bahasa Jerman","mejs.greek":"Bahasa Yunani","mejs.haitian-creole":"Bahasa Kreol Haiti","mejs.hebrew":"Bahasa Ibrani","mejs.hindi":"Bahasa Hindi","mejs.hungarian":"Bahasa Hungaria","mejs.icelandic":"Bahasa Islandia","mejs.indonesian":"Bahasa Indonesia","mejs.irish":"Bahasa Irlandia","mejs.italian":"Bahasa Italia","mejs.japanese":"Bahasa Jepang","mejs.korean":"Bahasa Korea","mejs.latvian":"Bahasa Latvia","mejs.lithuanian":"Bahasa Lithuania","mejs.macedonian":"Bahasa Macedonia","mejs.malay":"Bahasa Melayu","mejs.maltese":"Bahasa Malta","mejs.norwegian":"Bahasa Norwegia","mejs.persian":"Bahasa Persia","mejs.polish":"Bahasa Polandia","mejs.portuguese":"Bahasa Portugis","mejs.romanian":"Bahasa Romania","mejs.russian":"Bahasa Russia","mejs.serbian":"Bahasa Serbia","mejs.slovak":"Bahasa Slovakia","mejs.slovenian":"Bahasa Slovenia","mejs.spanish":"Bahasa Spanyol","mejs.swahili":"Bahasa Swahili","mejs.swedish":"Bahasa Swedia","mejs.tagalog":"Bahasa Tagalog","mejs.thai":"Bahasa Thai","mejs.turkish":"Bahasa Turki","mejs.ukrainian":"Bahasa Ukraina","mejs.vietnamese":"Bahasa Vietnam","mejs.welsh":"Bahasa Welsh","mejs.yiddish":"Bahasa Yiddi"}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.6.2" id="mediaelement-migrate-js"></script>
-<script type="text/javascript" id="mediaelement-js-extra">
-/* <![CDATA[ */
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17" id="mediaelement-core-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.5.5" id="mediaelement-migrate-js"></script>
+<script id="mediaelement-js-extra">
 var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive","audioShortcodeLibrary":"mediaelement","videoShortcodeLibrary":"mediaelement"};
-/* ]]> */
 </script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.6.2" id="wp-mediaelement-js"></script>
-<script type="text/javascript" id="sb_instagram_scripts-js-extra">
-/* <![CDATA[ */
-var sb_instagram_js_options = {"font_method":"svg","resized_url":"https:\/\/medikasuherman.ac.id\/wp-content\/uploads\/sb-instagram-feed-images\/","placeholder":"https:\/\/medikasuherman.ac.id\/wp-content\/plugins\/instagram-feed\/img\/placeholder.png"};
-/* ]]> */
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.5.5" id="wp-mediaelement-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.23.1" id="elementor-webpack-runtime-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.23.1" id="elementor-frontend-modules-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.23.1","is_static":false,"experimentalFeatures":{"e_optimized_css_loading":true,"e_font_icon_svg":true,"additional_custom_breakpoints":true,"container":true,"container_grid":true,"e_swiper_latest":true,"e_nested_atomic_repeaters":true,"e_optimized_control_loading":true,"e_onboarding":true,"home_screen":true,"editor_v2":true,"ai-layout":true,"e_lazyload":true,"e_element_cache":true,"link-in-bio":true,"floating-buttons":true},"urls":{"assets":"https:\/\/sentrahki.medikasuherman.ac.id\/wp-content\/plugins\/elementor\/assets\/","ajaxurl":"https:\/\/sentrahki.medikasuherman.ac.id\/wp-admin\/admin-ajax.php"},"nonces":{"floatingButtonsClickTracking":"b60fff9fdd"},"swiperClass":"swiper","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":7,"title":"Sentra%20HKI%20UMS","excerpt":"","featuredImage":false}};
 </script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/instagram-feed/js/sbi-scripts.min.js?ver=2.9.8" id="sb_instagram_scripts-js"></script>
-<script type="text/javascript" id="ctf_scripts-js-extra">
-/* <![CDATA[ */
-var ctf = {"ajax_url":"https:\/\/medikasuherman.ac.id\/wp-admin\/admin-ajax.php"};
-/* ]]> */
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.23.1" id="elementor-frontend-js"></script>
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.2.1" id="animate-circle-js"></script>
+<script id="elementskit-elementor-js-extra">
+var ekit_config = {"ajaxurl":"https:\/\/sentrahki.medikasuherman.ac.id\/wp-admin\/admin-ajax.php","nonce":"148f61459b"};
 </script>
-<script type="text/javascript" src="https://medikasuherman.ac.id/wp-content/plugins/custom-twitter-feeds/js/ctf-scripts.min.js?ver=1.8.4" id="ctf_scripts-js"></script>
-<style id="et-builder-module-design-686-cached-inline-styles">div.et_pb_section.et_pb_section_0{background-image:linear-gradient(135deg,#6fba39 0%,#4161d4 100%)!important}.et_pb_section_0{filter:opacity(82%);backface-visibility:hidden;height:1000px;min-height:1000px;max-height:1000px;width:100%;max-width:100%;box-shadow:inset 0px -200px 0px 0px #F8FBFE;filter:opacity(82%);backface-visibility:hidden}.et_pb_section_0.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:0px;margin-bottom:0px;margin-left:0px;background-color:#0c71c3!important}.et_pb_row_0{min-height:582px}.et_pb_row_0.et_pb_row{padding-top:0px!important;padding-bottom:1px!important;padding-top:0px;padding-bottom:1px}div.et_pb_section.et_pb_section_1{background-blend-mode:overlay;background-image:url(https://medikasuherman.ac.id/fisioterapi/wp-content/uploads/2021/04/geometric-bg-overlay-02.jpg),linear-gradient(135deg,#53a0fd 0%,#4161d4 100%)!important}div.et_pb_section.et_pb_section_6{background-blend-mode:overlay;background-image:url(https://medikasuherman.ac.id/fisioterapi/wp-content/uploads/2021/04/geometric-bg-overlay-02.jpg),linear-gradient(135deg,#53a0fd 0%,#4161d4 100%)!important}.et_pb_section_1{min-height:78px}.et_pb_section_1.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:100px;padding-left:0px;margin-top:-26px;background-color:inherit!important}.et_pb_section_6.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:100px;padding-left:0px;margin-top:-26px;background-color:inherit!important}.et_pb_row_1{min-height:74px}.et_pb_row_1.et_pb_row{padding-top:0px!important;padding-right:0px!important;padding-bottom:77px!important;margin-top:-338px!important;margin-right:152px!important;margin-bottom:-78px!important;margin-left:auto!important;padding-top:0px;padding-right:0px;padding-bottom:77px}.et_pb_section_2{min-height:2304.3px}.et_pb_section_2.et_pb_section{margin-top:-131px;margin-bottom:-261px}.et_pb_row_2{min-height:686px}.et_pb_row_2,body #page-container .et-db #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_2.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_2.et_pb_row{width:81%;max-width:1744px}.et_pb_row_3,body #page-container .et-db #et-boc .et-l .et_pb_row_3.et_pb_row,body.et_pb_pagebuilder_layout.single #page-container #et-boc .et-l .et_pb_row_3.et_pb_row,body.et_pb_pagebuilder_layout.single.et_full_width_page #page-container #et-boc .et-l .et_pb_row_3.et_pb_row{width:81%;max-width:1744px}.et_pb_text_0{font-family:'ABeeZee',Helvetica,Arial,Lucida,sans-serif;font-size:23px}.et_pb_blog_0 .et_pb_post .entry-title a,.et_pb_blog_0 .not-found-title{font-family:'Alegreya',Georgia,"Times New Roman",serif!important;font-weight:700!important;color:#0c71c3!important}.et_pb_blog_0 .et_pb_post .entry-title,.et_pb_blog_0 .not-found-title{text-align:left!important}.et_pb_blog_0 .et_pb_post p{line-height:1em}.et_pb_blog_0 .et_pb_post .post-content,.et_pb_blog_0.et_pb_bg_layout_light .et_pb_post .post-content p,.et_pb_blog_0.et_pb_bg_layout_dark .et_pb_post .post-content p{font-family:'ABeeZee',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:13px;line-height:1em;text-align:justify}.et_pb_blog_0 .et_pb_post .post-meta,.et_pb_blog_0 .et_pb_post .post-meta a,#left-area .et_pb_blog_0 .et_pb_post .post-meta,#left-area .et_pb_blog_0 .et_pb_post .post-meta a{font-size:12px}.et_pb_blog_0 .et_pb_post div.post-content a.more-link{color:#e02b20!important}.et_pb_blog_0 .pagination a{color:#e02b20!important}.et_pb_blog_1 .et_pb_post div.post-content a.more-link{color:#e02b20!important}.et_pb_blog_1 .pagination a{color:#e02b20!important}.et_pb_blog_0{background-color:#ffffff;height:100px;min-height:100px;max-height:100px;padding-top:0px;padding-right:5px;padding-bottom:130px;padding-left:0px;margin-top:0px!important;margin-right:-714px!important;margin-bottom:-219px!important;width:271.6%;max-width:100%;transform:scaleX(0.94) scaleY(0.94) translateX(-6px) translateY(-21px)}.et_pb_blog_0 img,.et_pb_blog_0 .et_pb_slides,.et_pb_blog_0 .et_pb_video_overlay{box-shadow:0px 2px 18px 0px #0c71c3}.et_pb_blog_0 .et_pb_blog_grid .et_pb_post{background-color:#edf000}.et_pb_image_0{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);background-color:#0c71c3;padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_image_1{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_image_2{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_image_3{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_image_4{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_image_5{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_image_6{background-image:url(https://medikasuherman.ac.id/wp-content/uploads/2021/08/Bisnis-Teknologi-2-scaled.jpg),linear-gradient(180deg,#2b87da 0%,#29c4a9 100%);padding-right:45px;padding-left:16px;margin-left:2px!important;width:100%;text-align:left;margin-left:0}.et_pb_row_3{min-height:388px}.et_pb_text_1{font-family:'ABeeZee',Helvetica,Arial,Lucida,sans-serif;font-size:23px;margin-top:-222px!important}.et_pb_blog_1 .et_pb_post .entry-title a,.et_pb_blog_1 .not-found-title{font-family:'Acme',Helvetica,Arial,Lucida,sans-serif!important;color:#0c71c3!important}.et_pb_blog_1 .et_pb_post,.et_pb_blog_1 .et_pb_post .post-content *{color:#0c71c3!important}.et_pb_blog_1{padding-bottom:218px}.et_pb_blog_1 .et_pb_blog_grid .et_pb_post{background-color:#d6d6d6}.et_pb_text_2{font-family:'ABeeZee',Helvetica,Arial,Lucida,sans-serif;font-size:23px;transform:translateX(-3px) translateY(-207px)}.et_pb_video_slider_0{transform:translateX(11px) translateY(-203px)}div.et_pb_section.et_pb_section_3{background-blend-mode:overlay;background-image:url(https://medikasuherman.ac.id/fisioterapi/wp-content/uploads/2021/04/geometric-bg-overlay-02.jpg)!important}.et_pb_section_3{height:100px;min-height:33px;max-height:100px;width:100%;max-width:100%}.et_pb_section_3.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:100px;padding-left:0px;margin-top:-26px;background-color:#70cceb!important}.et_pb_section_4{min-height:501.8px}.et_pb_section_4.et_pb_section{padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:17px;background-color:#ffffff!important}.et_pb_row_4.et_pb_row{padding-top:0px!important;padding-bottom:29px!important;margin-top:46px!important;margin-right:auto!important;margin-bottom:-35px!important;margin-left:auto!important;padding-top:0px;padding-bottom:29px}.et_pb_text_3{font-family:'ABeeZee',Helvetica,Arial,Lucida,sans-serif;font-size:23px;min-height:9.8px;padding-bottom:2px!important;margin-bottom:12px!important}.et_pb_row_5.et_pb_row{padding-top:0px!important;padding-bottom:29px!important;margin-top:15px!important;margin-right:auto!important;margin-bottom:-106px!important;margin-left:auto!important;padding-top:0px;padding-bottom:29px}.et_pb_code_0{height:400px;min-height:442px;max-height:1000px;box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3)}.et_pb_code_1{height:462px;min-height:100px;max-height:442px;padding-bottom:1px;padding-left:0px;margin-bottom:6px!important;max-width:100%;box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3)}.et_pb_code_2{height:1000px;max-height:442px;box-shadow:0px 2px 18px 0px rgba(0,0,0,0.3)}.et_pb_section_5{min-height:189px}.et_pb_section_5.et_pb_section{padding-top:18px;padding-right:0px;padding-bottom:0px;padding-left:0px;margin-top:1px}.et_pb_section_6{height:1000px;max-height:437px;width:100%;max-width:100%}.et_pb_row_6{min-height:69.2px}.et_pb_row_6.et_pb_row{padding-bottom:0px!important;padding-bottom:0px}.et_pb_text_4 p{line-height:1.8em}.et_pb_text_4{font-family:'Nunito Sans',Helvetica,Arial,Lucida,sans-serif;font-size:12px;line-height:1.8em;padding-bottom:0px!important;margin-bottom:-8px!important;max-width:700px}.et_pb_text_4 h2{font-family:'Nunito Sans',Helvetica,Arial,Lucida,sans-serif;font-weight:700;font-size:45px;line-height:1.3em}.et_pb_row_7{min-height:116.1px}.et_pb_row_7.et_pb_row{padding-top:0px!important;padding-bottom:0px!important;padding-top:0px;padding-bottom:0px}.et_pb_image_7{text-align:left;margin-left:0}.et_pb_image_8{text-align:left;margin-left:0}.et_pb_image_9{text-align:left;margin-left:0}.et_pb_image_10{text-align:left;margin-left:0}.et_pb_image_11{text-align:left;margin-left:0}.et_pb_image_12{max-width:100%;text-align:left;margin-left:0}.et_pb_section_7{min-height:64px}.et_pb_section_7.et_pb_section{padding-top:36px;padding-right:0px;padding-bottom:32px;padding-left:0px;margin-top:-63px}.et_pb_row_2.et_pb_row{padding-top:53px!important;padding-right:19px!important;padding-bottom:0px!important;margin-right:163px!important;margin-bottom:21px!important;margin-left:210px!important;margin-left:auto!important;margin-right:auto!important;padding-top:53px;padding-right:19px;padding-bottom:0px}.et_pb_blog_0.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_text_4.et_pb_module{margin-left:auto!important;margin-right:auto!important}.et_pb_row_3.et_pb_row{padding-top:226px!important;padding-right:19px!important;padding-bottom:0px!important;margin-right:163px!important;margin-bottom:-215px!important;margin-left:214px!important;margin-left:auto!important;margin-right:auto!important;padding-top:226px;padding-right:19px;padding-bottom:0px}@media only screen and (max-width:980px){.et_pb_blog_0{transform:scaleX(0.94) scaleY(0.94) translateX(-6px) translateY(-21px)}.et_pb_image_0{margin-left:auto;margin-right:auto}.et_pb_image_1{margin-left:auto;margin-right:auto}.et_pb_image_2{margin-left:auto;margin-right:auto}.et_pb_image_3{margin-left:auto;margin-right:auto}.et_pb_image_4{margin-left:auto;margin-right:auto}.et_pb_image_5{margin-left:auto;margin-right:auto}.et_pb_image_6{margin-left:auto;margin-right:auto}.et_pb_image_7{margin-left:auto;margin-right:auto}.et_pb_image_8{margin-left:auto;margin-right:auto}.et_pb_image_9{margin-left:auto;margin-right:auto}.et_pb_image_10{margin-left:auto;margin-right:auto}.et_pb_image_11{margin-left:auto;margin-right:auto}.et_pb_image_12{margin-left:auto;margin-right:auto}}@media only screen and (max-width:767px){.et_pb_blog_0{transform:scaleX(0.94) scaleY(0.94) translateX(-6px) translateY(-21px)}.et_pb_image_0{margin-left:auto;margin-right:auto}.et_pb_image_1{margin-left:auto;margin-right:auto}.et_pb_image_2{margin-left:auto;margin-right:auto}.et_pb_image_3{margin-left:auto;margin-right:auto}.et_pb_image_4{margin-left:auto;margin-right:auto}.et_pb_image_5{margin-left:auto;margin-right:auto}.et_pb_image_6{margin-left:auto;margin-right:auto}.et_pb_image_7{margin-left:auto;margin-right:auto}.et_pb_image_8{margin-left:auto;margin-right:auto}.et_pb_image_9{margin-left:auto;margin-right:auto}.et_pb_image_10{margin-left:auto;margin-right:auto}.et_pb_image_11{margin-left:auto;margin-right:auto}.et_pb_image_12{margin-left:auto;margin-right:auto}}</style></body>
-</body>
-<div style="display: none;">
+<script src="https://sentrahki.medikasuherman.ac.id/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.2.1" id="elementskit-elementor-js"></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				</body>
+	<div style="display: none;">
 <a href="https://pafisukarame.org/">https://pafisukarame.org/</a>
 <a href="https://pafijayakota.org/">https://pafijayakota.org/</a>
 <a href="https://paficabangindramayu.org/">https://paficabangindramayu.org/</a>
@@ -1195,5 +850,7 @@ var ctf = {"ajax_url":"https:\/\/medikasuherman.ac.id\/wp-admin\/admin-ajax.php"
 <a href="https://paficabangklaten.org/">https://paficabangklaten.org/</a>
 </div>
 </html>
+</html>
 
-<!-- Page generated by LiteSpeed Cache 5.2 on 2024-11-23 16:11:56 -->
+
+<!-- Page cached by LiteSpeed Cache 6.2.0.1 on 2024-11-23 09:18:32 -->
