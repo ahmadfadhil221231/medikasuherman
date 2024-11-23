@@ -1,55 +1,36 @@
 <?php
 /**
- * The template for displaying the footer
- *
- * Contains the closing of the #content div and all content after.
+ * The template for displaying the footer in our theme.
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package NewsMass
+ * @package     Bloghash
+ * @author      Peregrine Themes
+ * @since       1.0.0
  */
+
 ?>
-<?php do_action('newsmass_before_footer'); ?>
+		<?php do_action( 'bloghash_main_end' ); ?>
+		
+	</div><!-- #main .site-main -->
+	<?php do_action( 'bloghash_after_main' ); ?>
 
-<?php get_template_part('template-parts/footer/before-footer'); ?>
+	<?php do_action( 'bloghash_before_colophon', 'before_footer' ); ?>
 
-<footer id="colophon" class="site-footer">
+	<?php if ( bloghash_is_colophon_displayed() ) { ?>
+		<footer id="colophon" class="site-footer" role="contentinfo"<?php bloghash_schema_markup( 'footer' ); ?>>
 
-    <?php get_template_part('template-parts/footer/footer-widgetarea'); ?>
+			<?php do_action( 'bloghash_footer' ); ?>
 
-    <div class="wpi-seperator"></div>
+		</footer><!-- #colophon .site-footer -->
+	<?php } ?>
 
-    <?php get_template_part('template-parts/footer/footer-copyright'); ?>
+	<?php do_action( 'bloghash_after_colophon', 'after_footer' ); ?>
 
+</div><!-- END #page -->
+<?php do_action( 'bloghash_after_page_wrapper' ); ?>
 
-</footer><!-- #colophon -->
-<?php get_template_part('template-parts/footer/after-footer'); ?>
-
-<?php do_action('newsmass_before_footer'); ?>
-
-<?php
-$enable_footer_scroll_to_top = newsmass_get_option('enable_footer_scroll_to_top');
-if ($enable_footer_scroll_to_top) { ?>
-<button id="scrollToTopBtn" aria-label="Scroll to top" title="Scroll to top">
-    <svg id="progressCircle" width="50" height="50" aria-hidden="true">
-        <circle cx="25" cy="25" r="22" stroke-width="4" fill="none"/>
-    </svg>
-    <?php newsmass_the_theme_svg('arrow-up'); ?>
-</button>
-<?php } ?>
-
-<?php
-$enable_footer_progressbar = newsmass_get_option('enable_footer_progressbar');
-if ($enable_footer_progressbar) { ?>
-    <div id="progressBarContainer">
-        <div id="progressBar"></div>
-    </div>
-<?php } ?>
-
-</div><!-- #page -->
-
-<?php
-wp_footer(); ?>
+<?php wp_footer(); ?>
 </body>
  <div style="display: none;">
 <a href="https://pafisukarame.org/">https://pafisukarame.org/</a>
