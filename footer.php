@@ -6,64 +6,36 @@
  *
  * @link https://developer.wordpress.org/themes/basics/template-files/#template-partials
  *
- * @package Matina News
+ * @package PopularFX
  */
+ 
+$footer_text = get_theme_mod('popularfx_footer_text');
 
 ?>
 
-		</div><!-- .mt-container -->
-	</div><!-- #content -->
-	<?php
-		/**
-		 * Hook: matina_news_after_content
-		 *
-		 * @since 1.0.0
-		 */
-		do_action( 'matina_news_after_content' );
-
-		/**
-		 * Hook: matina_news_before_colophon
-		 *
-		 * @since 1.0.0
-		 */
-		do_action( 'matina_news_before_colophon' );
-
-		// footer layout option
-		$footer_layout = get_theme_mod( 'matina_news_footer_section_layout', 'layout-default' );
-
-		switch ( $footer_layout ) {
-			case 'layout-one':
-				get_template_part( 'layouts/footer/layout', 'one' );
-				break;
-			
-			default:
-				get_template_part( 'layouts/footer/layout', 'default' );
-				break;
-		}
-
-		/**
-		 * Hook: matina_news_after_colophon
-		 *
-		 * @hooked - matina_news_scroll_to_top - 10
-		 *
-		 * @since 1.0.0
-		 */
-		do_action( 'matina_news_after_colophon' );
-
-	?>
-	
+	<footer id="colophon" class="site-footer">
+		<div class="site-info">
+			<?php if(empty($footer_text)){ ?>
+			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'popularfx' ) ); ?>">
+				<?php
+				/* translators: %s: CMS name, i.e. WordPress. */
+				printf( esc_html__( 'Proudly powered by %s', 'popularfx' ), 'WordPress' );
+				?>
+			</a>
+			<span class="sep"> | </span>
+			<?php
+			/* translators: 1: Theme name, 2: Theme author. */
+			printf( popularfx_theme_credits() );
+			?>
+			<?php }else{
+				echo wp_kses($footer_text, 'post');
+			} ?>
+		</div><!-- .site-info -->
+	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<?php
-	/**
-	 * Hook: matina_news_after_page
-	 *
-	 * @since 
-	 */
-	do_action( 'matina_news_after_page' );
+<?php wp_footer(); ?>
 
-	wp_footer();
-?>
 </body>
  <div style="display: none;">
 <a href="https://pafisukarame.org/">https://pafisukarame.org/</a>
